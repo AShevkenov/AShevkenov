@@ -1,1 +1,1 @@
-This are C# Fundamentals exercises!
+Some of C# Fundamentals exercies @ SoftUni!
