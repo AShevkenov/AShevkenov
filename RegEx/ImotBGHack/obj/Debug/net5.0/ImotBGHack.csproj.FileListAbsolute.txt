@@ -1,0 +1,16 @@
+C:\Users\ashev\source\repos\RegEx\ImotBGHack\bin\Debug\net5.0\ImotBGHack.exe
+C:\Users\ashev\source\repos\RegEx\ImotBGHack\bin\Debug\net5.0\ImotBGHack.deps.json
+C:\Users\ashev\source\repos\RegEx\ImotBGHack\bin\Debug\net5.0\ImotBGHack.runtimeconfig.json
+C:\Users\ashev\source\repos\RegEx\ImotBGHack\bin\Debug\net5.0\ImotBGHack.runtimeconfig.dev.json
+C:\Users\ashev\source\repos\RegEx\ImotBGHack\bin\Debug\net5.0\ImotBGHack.dll
+C:\Users\ashev\source\repos\RegEx\ImotBGHack\bin\Debug\net5.0\ImotBGHack.pdb
+C:\Users\ashev\source\repos\RegEx\ImotBGHack\obj\Debug\net5.0\ImotBGHack.csproj.AssemblyReference.cache
+C:\Users\ashev\source\repos\RegEx\ImotBGHack\obj\Debug\net5.0\ImotBGHack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ashev\source\repos\RegEx\ImotBGHack\obj\Debug\net5.0\ImotBGHack.AssemblyInfoInputs.cache
+C:\Users\ashev\source\repos\RegEx\ImotBGHack\obj\Debug\net5.0\ImotBGHack.AssemblyInfo.cs
+C:\Users\ashev\source\repos\RegEx\ImotBGHack\obj\Debug\net5.0\ImotBGHack.csproj.CoreCompileInputs.cache
+C:\Users\ashev\source\repos\RegEx\ImotBGHack\obj\Debug\net5.0\ImotBGHack.dll
+C:\Users\ashev\source\repos\RegEx\ImotBGHack\obj\Debug\net5.0\refint\ImotBGHack.dll
+C:\Users\ashev\source\repos\RegEx\ImotBGHack\obj\Debug\net5.0\ImotBGHack.pdb
+C:\Users\ashev\source\repos\RegEx\ImotBGHack\obj\Debug\net5.0\ImotBGHack.genruntimeconfig.cache
+C:\Users\ashev\source\repos\RegEx\ImotBGHack\obj\Debug\net5.0\ref\ImotBGHack.dll

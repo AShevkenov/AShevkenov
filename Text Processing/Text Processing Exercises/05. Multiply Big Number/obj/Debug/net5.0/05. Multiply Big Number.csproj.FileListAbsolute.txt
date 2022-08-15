@@ -1,0 +1,16 @@
+C:\Users\ashev\source\repos\Text Processing Exercises\05. Multiply Big Number\bin\Debug\net5.0\05. Multiply Big Number.exe
+C:\Users\ashev\source\repos\Text Processing Exercises\05. Multiply Big Number\bin\Debug\net5.0\05. Multiply Big Number.deps.json
+C:\Users\ashev\source\repos\Text Processing Exercises\05. Multiply Big Number\bin\Debug\net5.0\05. Multiply Big Number.runtimeconfig.json
+C:\Users\ashev\source\repos\Text Processing Exercises\05. Multiply Big Number\bin\Debug\net5.0\05. Multiply Big Number.runtimeconfig.dev.json
+C:\Users\ashev\source\repos\Text Processing Exercises\05. Multiply Big Number\bin\Debug\net5.0\05. Multiply Big Number.dll
+C:\Users\ashev\source\repos\Text Processing Exercises\05. Multiply Big Number\bin\Debug\net5.0\05. Multiply Big Number.pdb
+C:\Users\ashev\source\repos\Text Processing Exercises\05. Multiply Big Number\obj\Debug\net5.0\05. Multiply Big Number.csproj.AssemblyReference.cache
+C:\Users\ashev\source\repos\Text Processing Exercises\05. Multiply Big Number\obj\Debug\net5.0\05. Multiply Big Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ashev\source\repos\Text Processing Exercises\05. Multiply Big Number\obj\Debug\net5.0\05. Multiply Big Number.AssemblyInfoInputs.cache
+C:\Users\ashev\source\repos\Text Processing Exercises\05. Multiply Big Number\obj\Debug\net5.0\05. Multiply Big Number.AssemblyInfo.cs
+C:\Users\ashev\source\repos\Text Processing Exercises\05. Multiply Big Number\obj\Debug\net5.0\05. Multiply Big Number.csproj.CoreCompileInputs.cache
+C:\Users\ashev\source\repos\Text Processing Exercises\05. Multiply Big Number\obj\Debug\net5.0\05. Multiply Big Number.dll
+C:\Users\ashev\source\repos\Text Processing Exercises\05. Multiply Big Number\obj\Debug\net5.0\refint\05. Multiply Big Number.dll
+C:\Users\ashev\source\repos\Text Processing Exercises\05. Multiply Big Number\obj\Debug\net5.0\05. Multiply Big Number.pdb
+C:\Users\ashev\source\repos\Text Processing Exercises\05. Multiply Big Number\obj\Debug\net5.0\05. Multiply Big Number.genruntimeconfig.cache
+C:\Users\ashev\source\repos\Text Processing Exercises\05. Multiply Big Number\obj\Debug\net5.0\ref\05. Multiply Big Number.dll

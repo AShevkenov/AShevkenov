@@ -1,0 +1,16 @@
+C:\Users\ashev\source\repos\Text Processing - Lab\03. Substring\bin\Debug\net5.0\03. Substring.exe
+C:\Users\ashev\source\repos\Text Processing - Lab\03. Substring\bin\Debug\net5.0\03. Substring.deps.json
+C:\Users\ashev\source\repos\Text Processing - Lab\03. Substring\bin\Debug\net5.0\03. Substring.runtimeconfig.json
+C:\Users\ashev\source\repos\Text Processing - Lab\03. Substring\bin\Debug\net5.0\03. Substring.runtimeconfig.dev.json
+C:\Users\ashev\source\repos\Text Processing - Lab\03. Substring\bin\Debug\net5.0\03. Substring.dll
+C:\Users\ashev\source\repos\Text Processing - Lab\03. Substring\bin\Debug\net5.0\03. Substring.pdb
+C:\Users\ashev\source\repos\Text Processing - Lab\03. Substring\obj\Debug\net5.0\03. Substring.csproj.AssemblyReference.cache
+C:\Users\ashev\source\repos\Text Processing - Lab\03. Substring\obj\Debug\net5.0\03. Substring.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ashev\source\repos\Text Processing - Lab\03. Substring\obj\Debug\net5.0\03. Substring.AssemblyInfoInputs.cache
+C:\Users\ashev\source\repos\Text Processing - Lab\03. Substring\obj\Debug\net5.0\03. Substring.AssemblyInfo.cs
+C:\Users\ashev\source\repos\Text Processing - Lab\03. Substring\obj\Debug\net5.0\03. Substring.csproj.CoreCompileInputs.cache
+C:\Users\ashev\source\repos\Text Processing - Lab\03. Substring\obj\Debug\net5.0\03. Substring.dll
+C:\Users\ashev\source\repos\Text Processing - Lab\03. Substring\obj\Debug\net5.0\refint\03. Substring.dll
+C:\Users\ashev\source\repos\Text Processing - Lab\03. Substring\obj\Debug\net5.0\03. Substring.pdb
+C:\Users\ashev\source\repos\Text Processing - Lab\03. Substring\obj\Debug\net5.0\03. Substring.genruntimeconfig.cache
+C:\Users\ashev\source\repos\Text Processing - Lab\03. Substring\obj\Debug\net5.0\ref\03. Substring.dll

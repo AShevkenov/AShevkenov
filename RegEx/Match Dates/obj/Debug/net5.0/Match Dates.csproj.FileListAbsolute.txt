@@ -1,0 +1,16 @@
+C:\Users\ashev\source\repos\RegEx\Match Dates\bin\Debug\net5.0\Match Dates.exe
+C:\Users\ashev\source\repos\RegEx\Match Dates\bin\Debug\net5.0\Match Dates.deps.json
+C:\Users\ashev\source\repos\RegEx\Match Dates\bin\Debug\net5.0\Match Dates.runtimeconfig.json
+C:\Users\ashev\source\repos\RegEx\Match Dates\bin\Debug\net5.0\Match Dates.runtimeconfig.dev.json
+C:\Users\ashev\source\repos\RegEx\Match Dates\bin\Debug\net5.0\Match Dates.dll
+C:\Users\ashev\source\repos\RegEx\Match Dates\bin\Debug\net5.0\Match Dates.pdb
+C:\Users\ashev\source\repos\RegEx\Match Dates\obj\Debug\net5.0\Match Dates.csproj.AssemblyReference.cache
+C:\Users\ashev\source\repos\RegEx\Match Dates\obj\Debug\net5.0\Match Dates.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ashev\source\repos\RegEx\Match Dates\obj\Debug\net5.0\Match Dates.AssemblyInfoInputs.cache
+C:\Users\ashev\source\repos\RegEx\Match Dates\obj\Debug\net5.0\Match Dates.AssemblyInfo.cs
+C:\Users\ashev\source\repos\RegEx\Match Dates\obj\Debug\net5.0\Match Dates.csproj.CoreCompileInputs.cache
+C:\Users\ashev\source\repos\RegEx\Match Dates\obj\Debug\net5.0\Match Dates.dll
+C:\Users\ashev\source\repos\RegEx\Match Dates\obj\Debug\net5.0\refint\Match Dates.dll
+C:\Users\ashev\source\repos\RegEx\Match Dates\obj\Debug\net5.0\Match Dates.pdb
+C:\Users\ashev\source\repos\RegEx\Match Dates\obj\Debug\net5.0\Match Dates.genruntimeconfig.cache
+C:\Users\ashev\source\repos\RegEx\Match Dates\obj\Debug\net5.0\ref\Match Dates.dll

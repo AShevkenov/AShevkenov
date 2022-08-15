@@ -1,0 +1,16 @@
+C:\Users\ashev\source\repos\RegEx\RegEx\bin\Debug\net5.0\Match Full Name.exe
+C:\Users\ashev\source\repos\RegEx\RegEx\bin\Debug\net5.0\Match Full Name.deps.json
+C:\Users\ashev\source\repos\RegEx\RegEx\bin\Debug\net5.0\Match Full Name.runtimeconfig.json
+C:\Users\ashev\source\repos\RegEx\RegEx\bin\Debug\net5.0\Match Full Name.runtimeconfig.dev.json
+C:\Users\ashev\source\repos\RegEx\RegEx\bin\Debug\net5.0\Match Full Name.dll
+C:\Users\ashev\source\repos\RegEx\RegEx\bin\Debug\net5.0\Match Full Name.pdb
+C:\Users\ashev\source\repos\RegEx\RegEx\obj\Debug\net5.0\Match Full Name.csproj.AssemblyReference.cache
+C:\Users\ashev\source\repos\RegEx\RegEx\obj\Debug\net5.0\Match Full Name.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ashev\source\repos\RegEx\RegEx\obj\Debug\net5.0\Match Full Name.AssemblyInfoInputs.cache
+C:\Users\ashev\source\repos\RegEx\RegEx\obj\Debug\net5.0\Match Full Name.AssemblyInfo.cs
+C:\Users\ashev\source\repos\RegEx\RegEx\obj\Debug\net5.0\Match Full Name.csproj.CoreCompileInputs.cache
+C:\Users\ashev\source\repos\RegEx\RegEx\obj\Debug\net5.0\Match Full Name.dll
+C:\Users\ashev\source\repos\RegEx\RegEx\obj\Debug\net5.0\refint\Match Full Name.dll
+C:\Users\ashev\source\repos\RegEx\RegEx\obj\Debug\net5.0\Match Full Name.pdb
+C:\Users\ashev\source\repos\RegEx\RegEx\obj\Debug\net5.0\Match Full Name.genruntimeconfig.cache
+C:\Users\ashev\source\repos\RegEx\RegEx\obj\Debug\net5.0\ref\Match Full Name.dll

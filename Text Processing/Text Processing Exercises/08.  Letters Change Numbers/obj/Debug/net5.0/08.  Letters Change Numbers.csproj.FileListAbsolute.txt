@@ -1,0 +1,16 @@
+C:\Users\ashev\source\repos\Text Processing Exercises\08.  Letters Change Numbers\bin\Debug\net5.0\08.  Letters Change Numbers.exe
+C:\Users\ashev\source\repos\Text Processing Exercises\08.  Letters Change Numbers\bin\Debug\net5.0\08.  Letters Change Numbers.deps.json
+C:\Users\ashev\source\repos\Text Processing Exercises\08.  Letters Change Numbers\bin\Debug\net5.0\08.  Letters Change Numbers.runtimeconfig.json
+C:\Users\ashev\source\repos\Text Processing Exercises\08.  Letters Change Numbers\bin\Debug\net5.0\08.  Letters Change Numbers.runtimeconfig.dev.json
+C:\Users\ashev\source\repos\Text Processing Exercises\08.  Letters Change Numbers\bin\Debug\net5.0\08.  Letters Change Numbers.dll
+C:\Users\ashev\source\repos\Text Processing Exercises\08.  Letters Change Numbers\bin\Debug\net5.0\08.  Letters Change Numbers.pdb
+C:\Users\ashev\source\repos\Text Processing Exercises\08.  Letters Change Numbers\obj\Debug\net5.0\08.  Letters Change Numbers.csproj.AssemblyReference.cache
+C:\Users\ashev\source\repos\Text Processing Exercises\08.  Letters Change Numbers\obj\Debug\net5.0\08.  Letters Change Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ashev\source\repos\Text Processing Exercises\08.  Letters Change Numbers\obj\Debug\net5.0\08.  Letters Change Numbers.AssemblyInfoInputs.cache
+C:\Users\ashev\source\repos\Text Processing Exercises\08.  Letters Change Numbers\obj\Debug\net5.0\08.  Letters Change Numbers.AssemblyInfo.cs
+C:\Users\ashev\source\repos\Text Processing Exercises\08.  Letters Change Numbers\obj\Debug\net5.0\08.  Letters Change Numbers.csproj.CoreCompileInputs.cache
+C:\Users\ashev\source\repos\Text Processing Exercises\08.  Letters Change Numbers\obj\Debug\net5.0\08.  Letters Change Numbers.dll
+C:\Users\ashev\source\repos\Text Processing Exercises\08.  Letters Change Numbers\obj\Debug\net5.0\refint\08.  Letters Change Numbers.dll
+C:\Users\ashev\source\repos\Text Processing Exercises\08.  Letters Change Numbers\obj\Debug\net5.0\08.  Letters Change Numbers.pdb
+C:\Users\ashev\source\repos\Text Processing Exercises\08.  Letters Change Numbers\obj\Debug\net5.0\08.  Letters Change Numbers.genruntimeconfig.cache
+C:\Users\ashev\source\repos\Text Processing Exercises\08.  Letters Change Numbers\obj\Debug\net5.0\ref\08.  Letters Change Numbers.dll

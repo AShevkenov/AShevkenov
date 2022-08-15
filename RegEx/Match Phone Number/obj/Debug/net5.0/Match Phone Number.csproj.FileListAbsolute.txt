@@ -1,0 +1,16 @@
+C:\Users\ashev\source\repos\RegEx\Match Phone Number\bin\Debug\net5.0\Match Phone Number.exe
+C:\Users\ashev\source\repos\RegEx\Match Phone Number\bin\Debug\net5.0\Match Phone Number.deps.json
+C:\Users\ashev\source\repos\RegEx\Match Phone Number\bin\Debug\net5.0\Match Phone Number.runtimeconfig.json
+C:\Users\ashev\source\repos\RegEx\Match Phone Number\bin\Debug\net5.0\Match Phone Number.runtimeconfig.dev.json
+C:\Users\ashev\source\repos\RegEx\Match Phone Number\bin\Debug\net5.0\Match Phone Number.dll
+C:\Users\ashev\source\repos\RegEx\Match Phone Number\bin\Debug\net5.0\Match Phone Number.pdb
+C:\Users\ashev\source\repos\RegEx\Match Phone Number\obj\Debug\net5.0\Match Phone Number.csproj.AssemblyReference.cache
+C:\Users\ashev\source\repos\RegEx\Match Phone Number\obj\Debug\net5.0\Match Phone Number.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ashev\source\repos\RegEx\Match Phone Number\obj\Debug\net5.0\Match Phone Number.AssemblyInfoInputs.cache
+C:\Users\ashev\source\repos\RegEx\Match Phone Number\obj\Debug\net5.0\Match Phone Number.AssemblyInfo.cs
+C:\Users\ashev\source\repos\RegEx\Match Phone Number\obj\Debug\net5.0\Match Phone Number.csproj.CoreCompileInputs.cache
+C:\Users\ashev\source\repos\RegEx\Match Phone Number\obj\Debug\net5.0\Match Phone Number.dll
+C:\Users\ashev\source\repos\RegEx\Match Phone Number\obj\Debug\net5.0\refint\Match Phone Number.dll
+C:\Users\ashev\source\repos\RegEx\Match Phone Number\obj\Debug\net5.0\Match Phone Number.pdb
+C:\Users\ashev\source\repos\RegEx\Match Phone Number\obj\Debug\net5.0\Match Phone Number.genruntimeconfig.cache
+C:\Users\ashev\source\repos\RegEx\Match Phone Number\obj\Debug\net5.0\ref\Match Phone Number.dll

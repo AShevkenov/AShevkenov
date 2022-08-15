@@ -1,0 +1,16 @@
+C:\Users\ashev\source\repos\Text Processing Exercises\Text Processing Exercises\bin\Debug\net5.0\Text Processing Exercises.exe
+C:\Users\ashev\source\repos\Text Processing Exercises\Text Processing Exercises\bin\Debug\net5.0\Text Processing Exercises.deps.json
+C:\Users\ashev\source\repos\Text Processing Exercises\Text Processing Exercises\bin\Debug\net5.0\Text Processing Exercises.runtimeconfig.json
+C:\Users\ashev\source\repos\Text Processing Exercises\Text Processing Exercises\bin\Debug\net5.0\Text Processing Exercises.runtimeconfig.dev.json
+C:\Users\ashev\source\repos\Text Processing Exercises\Text Processing Exercises\bin\Debug\net5.0\Text Processing Exercises.dll
+C:\Users\ashev\source\repos\Text Processing Exercises\Text Processing Exercises\bin\Debug\net5.0\Text Processing Exercises.pdb
+C:\Users\ashev\source\repos\Text Processing Exercises\Text Processing Exercises\obj\Debug\net5.0\Text Processing Exercises.csproj.AssemblyReference.cache
+C:\Users\ashev\source\repos\Text Processing Exercises\Text Processing Exercises\obj\Debug\net5.0\Text Processing Exercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ashev\source\repos\Text Processing Exercises\Text Processing Exercises\obj\Debug\net5.0\Text Processing Exercises.AssemblyInfoInputs.cache
+C:\Users\ashev\source\repos\Text Processing Exercises\Text Processing Exercises\obj\Debug\net5.0\Text Processing Exercises.AssemblyInfo.cs
+C:\Users\ashev\source\repos\Text Processing Exercises\Text Processing Exercises\obj\Debug\net5.0\Text Processing Exercises.csproj.CoreCompileInputs.cache
+C:\Users\ashev\source\repos\Text Processing Exercises\Text Processing Exercises\obj\Debug\net5.0\Text Processing Exercises.dll
+C:\Users\ashev\source\repos\Text Processing Exercises\Text Processing Exercises\obj\Debug\net5.0\refint\Text Processing Exercises.dll
+C:\Users\ashev\source\repos\Text Processing Exercises\Text Processing Exercises\obj\Debug\net5.0\Text Processing Exercises.pdb
+C:\Users\ashev\source\repos\Text Processing Exercises\Text Processing Exercises\obj\Debug\net5.0\Text Processing Exercises.genruntimeconfig.cache
+C:\Users\ashev\source\repos\Text Processing Exercises\Text Processing Exercises\obj\Debug\net5.0\ref\Text Processing Exercises.dll
