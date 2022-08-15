@@ -1,0 +1,16 @@
+C:\Users\ashev\source\repos\Objects and Classes Exercises\05. Teamwork Project\bin\Debug\net5.0\05. Teamwork Project.exe
+C:\Users\ashev\source\repos\Objects and Classes Exercises\05. Teamwork Project\bin\Debug\net5.0\05. Teamwork Project.deps.json
+C:\Users\ashev\source\repos\Objects and Classes Exercises\05. Teamwork Project\bin\Debug\net5.0\05. Teamwork Project.runtimeconfig.json
+C:\Users\ashev\source\repos\Objects and Classes Exercises\05. Teamwork Project\bin\Debug\net5.0\05. Teamwork Project.runtimeconfig.dev.json
+C:\Users\ashev\source\repos\Objects and Classes Exercises\05. Teamwork Project\bin\Debug\net5.0\05. Teamwork Project.dll
+C:\Users\ashev\source\repos\Objects and Classes Exercises\05. Teamwork Project\bin\Debug\net5.0\05. Teamwork Project.pdb
+C:\Users\ashev\source\repos\Objects and Classes Exercises\05. Teamwork Project\obj\Debug\net5.0\05. Teamwork Project.csproj.AssemblyReference.cache
+C:\Users\ashev\source\repos\Objects and Classes Exercises\05. Teamwork Project\obj\Debug\net5.0\05. Teamwork Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ashev\source\repos\Objects and Classes Exercises\05. Teamwork Project\obj\Debug\net5.0\05. Teamwork Project.AssemblyInfoInputs.cache
+C:\Users\ashev\source\repos\Objects and Classes Exercises\05. Teamwork Project\obj\Debug\net5.0\05. Teamwork Project.AssemblyInfo.cs
+C:\Users\ashev\source\repos\Objects and Classes Exercises\05. Teamwork Project\obj\Debug\net5.0\05. Teamwork Project.csproj.CoreCompileInputs.cache
+C:\Users\ashev\source\repos\Objects and Classes Exercises\05. Teamwork Project\obj\Debug\net5.0\05. Teamwork Project.dll
+C:\Users\ashev\source\repos\Objects and Classes Exercises\05. Teamwork Project\obj\Debug\net5.0\refint\05. Teamwork Project.dll
+C:\Users\ashev\source\repos\Objects and Classes Exercises\05. Teamwork Project\obj\Debug\net5.0\05. Teamwork Project.pdb
+C:\Users\ashev\source\repos\Objects and Classes Exercises\05. Teamwork Project\obj\Debug\net5.0\05. Teamwork Project.genruntimeconfig.cache
+C:\Users\ashev\source\repos\Objects and Classes Exercises\05. Teamwork Project\obj\Debug\net5.0\ref\05. Teamwork Project.dll

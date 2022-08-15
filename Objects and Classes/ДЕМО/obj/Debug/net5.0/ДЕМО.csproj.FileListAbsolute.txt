@@ -1,0 +1,16 @@
+C:\Users\ashev\source\repos\Objects and Classes\ДЕМО\bin\Debug\net5.0\ДЕМО.exe
+C:\Users\ashev\source\repos\Objects and Classes\ДЕМО\bin\Debug\net5.0\ДЕМО.deps.json
+C:\Users\ashev\source\repos\Objects and Classes\ДЕМО\bin\Debug\net5.0\ДЕМО.runtimeconfig.json
+C:\Users\ashev\source\repos\Objects and Classes\ДЕМО\bin\Debug\net5.0\ДЕМО.runtimeconfig.dev.json
+C:\Users\ashev\source\repos\Objects and Classes\ДЕМО\bin\Debug\net5.0\ДЕМО.dll
+C:\Users\ashev\source\repos\Objects and Classes\ДЕМО\bin\Debug\net5.0\ДЕМО.pdb
+C:\Users\ashev\source\repos\Objects and Classes\ДЕМО\obj\Debug\net5.0\ДЕМО.csproj.AssemblyReference.cache
+C:\Users\ashev\source\repos\Objects and Classes\ДЕМО\obj\Debug\net5.0\ДЕМО.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ashev\source\repos\Objects and Classes\ДЕМО\obj\Debug\net5.0\ДЕМО.AssemblyInfoInputs.cache
+C:\Users\ashev\source\repos\Objects and Classes\ДЕМО\obj\Debug\net5.0\ДЕМО.AssemblyInfo.cs
+C:\Users\ashev\source\repos\Objects and Classes\ДЕМО\obj\Debug\net5.0\ДЕМО.csproj.CoreCompileInputs.cache
+C:\Users\ashev\source\repos\Objects and Classes\ДЕМО\obj\Debug\net5.0\ДЕМО.dll
+C:\Users\ashev\source\repos\Objects and Classes\ДЕМО\obj\Debug\net5.0\refint\ДЕМО.dll
+C:\Users\ashev\source\repos\Objects and Classes\ДЕМО\obj\Debug\net5.0\ДЕМО.pdb
+C:\Users\ashev\source\repos\Objects and Classes\ДЕМО\obj\Debug\net5.0\ДЕМО.genruntimeconfig.cache
+C:\Users\ashev\source\repos\Objects and Classes\ДЕМО\obj\Debug\net5.0\ref\ДЕМО.dll

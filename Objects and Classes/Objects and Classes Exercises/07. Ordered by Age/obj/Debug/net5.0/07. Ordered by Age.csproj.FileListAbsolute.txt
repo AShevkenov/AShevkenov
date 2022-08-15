@@ -1,0 +1,16 @@
+C:\Users\ashev\source\repos\Objects and Classes Exercises\07. Ordered by Age\bin\Debug\net5.0\07. Ordered by Age.exe
+C:\Users\ashev\source\repos\Objects and Classes Exercises\07. Ordered by Age\bin\Debug\net5.0\07. Ordered by Age.deps.json
+C:\Users\ashev\source\repos\Objects and Classes Exercises\07. Ordered by Age\bin\Debug\net5.0\07. Ordered by Age.runtimeconfig.json
+C:\Users\ashev\source\repos\Objects and Classes Exercises\07. Ordered by Age\bin\Debug\net5.0\07. Ordered by Age.runtimeconfig.dev.json
+C:\Users\ashev\source\repos\Objects and Classes Exercises\07. Ordered by Age\bin\Debug\net5.0\07. Ordered by Age.dll
+C:\Users\ashev\source\repos\Objects and Classes Exercises\07. Ordered by Age\bin\Debug\net5.0\07. Ordered by Age.pdb
+C:\Users\ashev\source\repos\Objects and Classes Exercises\07. Ordered by Age\obj\Debug\net5.0\07. Ordered by Age.csproj.AssemblyReference.cache
+C:\Users\ashev\source\repos\Objects and Classes Exercises\07. Ordered by Age\obj\Debug\net5.0\07. Ordered by Age.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ashev\source\repos\Objects and Classes Exercises\07. Ordered by Age\obj\Debug\net5.0\07. Ordered by Age.AssemblyInfoInputs.cache
+C:\Users\ashev\source\repos\Objects and Classes Exercises\07. Ordered by Age\obj\Debug\net5.0\07. Ordered by Age.AssemblyInfo.cs
+C:\Users\ashev\source\repos\Objects and Classes Exercises\07. Ordered by Age\obj\Debug\net5.0\07. Ordered by Age.csproj.CoreCompileInputs.cache
+C:\Users\ashev\source\repos\Objects and Classes Exercises\07. Ordered by Age\obj\Debug\net5.0\07. Ordered by Age.dll
+C:\Users\ashev\source\repos\Objects and Classes Exercises\07. Ordered by Age\obj\Debug\net5.0\refint\07. Ordered by Age.dll
+C:\Users\ashev\source\repos\Objects and Classes Exercises\07. Ordered by Age\obj\Debug\net5.0\07. Ordered by Age.pdb
+C:\Users\ashev\source\repos\Objects and Classes Exercises\07. Ordered by Age\obj\Debug\net5.0\07. Ordered by Age.genruntimeconfig.cache
+C:\Users\ashev\source\repos\Objects and Classes Exercises\07. Ordered by Age\obj\Debug\net5.0\ref\07. Ordered by Age.dll

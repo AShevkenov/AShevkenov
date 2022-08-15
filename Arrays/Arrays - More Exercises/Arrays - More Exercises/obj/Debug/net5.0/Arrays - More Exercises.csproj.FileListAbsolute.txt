@@ -1,0 +1,16 @@
+C:\Users\ashev\source\repos\Arrays - More Exercises\Arrays - More Exercises\bin\Debug\net5.0\Arrays - More Exercises.exe
+C:\Users\ashev\source\repos\Arrays - More Exercises\Arrays - More Exercises\bin\Debug\net5.0\Arrays - More Exercises.deps.json
+C:\Users\ashev\source\repos\Arrays - More Exercises\Arrays - More Exercises\bin\Debug\net5.0\Arrays - More Exercises.runtimeconfig.json
+C:\Users\ashev\source\repos\Arrays - More Exercises\Arrays - More Exercises\bin\Debug\net5.0\Arrays - More Exercises.runtimeconfig.dev.json
+C:\Users\ashev\source\repos\Arrays - More Exercises\Arrays - More Exercises\bin\Debug\net5.0\Arrays - More Exercises.dll
+C:\Users\ashev\source\repos\Arrays - More Exercises\Arrays - More Exercises\bin\Debug\net5.0\Arrays - More Exercises.pdb
+C:\Users\ashev\source\repos\Arrays - More Exercises\Arrays - More Exercises\obj\Debug\net5.0\Arrays - More Exercises.csproj.AssemblyReference.cache
+C:\Users\ashev\source\repos\Arrays - More Exercises\Arrays - More Exercises\obj\Debug\net5.0\Arrays - More Exercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ashev\source\repos\Arrays - More Exercises\Arrays - More Exercises\obj\Debug\net5.0\Arrays - More Exercises.AssemblyInfoInputs.cache
+C:\Users\ashev\source\repos\Arrays - More Exercises\Arrays - More Exercises\obj\Debug\net5.0\Arrays - More Exercises.AssemblyInfo.cs
+C:\Users\ashev\source\repos\Arrays - More Exercises\Arrays - More Exercises\obj\Debug\net5.0\Arrays - More Exercises.csproj.CoreCompileInputs.cache
+C:\Users\ashev\source\repos\Arrays - More Exercises\Arrays - More Exercises\obj\Debug\net5.0\Arrays - More Exercises.dll
+C:\Users\ashev\source\repos\Arrays - More Exercises\Arrays - More Exercises\obj\Debug\net5.0\refint\Arrays - More Exercises.dll
+C:\Users\ashev\source\repos\Arrays - More Exercises\Arrays - More Exercises\obj\Debug\net5.0\Arrays - More Exercises.pdb
+C:\Users\ashev\source\repos\Arrays - More Exercises\Arrays - More Exercises\obj\Debug\net5.0\Arrays - More Exercises.genruntimeconfig.cache
+C:\Users\ashev\source\repos\Arrays - More Exercises\Arrays - More Exercises\obj\Debug\net5.0\ref\Arrays - More Exercises.dll

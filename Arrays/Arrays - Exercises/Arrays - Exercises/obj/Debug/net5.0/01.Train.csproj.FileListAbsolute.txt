@@ -1,0 +1,16 @@
+C:\Users\ashev\source\repos\Arrays - Exercises\Arrays - Exercises\bin\Debug\net5.0\01.Train.exe
+C:\Users\ashev\source\repos\Arrays - Exercises\Arrays - Exercises\bin\Debug\net5.0\01.Train.deps.json
+C:\Users\ashev\source\repos\Arrays - Exercises\Arrays - Exercises\bin\Debug\net5.0\01.Train.runtimeconfig.json
+C:\Users\ashev\source\repos\Arrays - Exercises\Arrays - Exercises\bin\Debug\net5.0\01.Train.runtimeconfig.dev.json
+C:\Users\ashev\source\repos\Arrays - Exercises\Arrays - Exercises\bin\Debug\net5.0\01.Train.dll
+C:\Users\ashev\source\repos\Arrays - Exercises\Arrays - Exercises\bin\Debug\net5.0\01.Train.pdb
+C:\Users\ashev\source\repos\Arrays - Exercises\Arrays - Exercises\obj\Debug\net5.0\01.Train.csproj.AssemblyReference.cache
+C:\Users\ashev\source\repos\Arrays - Exercises\Arrays - Exercises\obj\Debug\net5.0\01.Train.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ashev\source\repos\Arrays - Exercises\Arrays - Exercises\obj\Debug\net5.0\01.Train.AssemblyInfoInputs.cache
+C:\Users\ashev\source\repos\Arrays - Exercises\Arrays - Exercises\obj\Debug\net5.0\01.Train.AssemblyInfo.cs
+C:\Users\ashev\source\repos\Arrays - Exercises\Arrays - Exercises\obj\Debug\net5.0\01.Train.csproj.CoreCompileInputs.cache
+C:\Users\ashev\source\repos\Arrays - Exercises\Arrays - Exercises\obj\Debug\net5.0\01.Train.dll
+C:\Users\ashev\source\repos\Arrays - Exercises\Arrays - Exercises\obj\Debug\net5.0\refint\01.Train.dll
+C:\Users\ashev\source\repos\Arrays - Exercises\Arrays - Exercises\obj\Debug\net5.0\01.Train.pdb
+C:\Users\ashev\source\repos\Arrays - Exercises\Arrays - Exercises\obj\Debug\net5.0\01.Train.genruntimeconfig.cache
+C:\Users\ashev\source\repos\Arrays - Exercises\Arrays - Exercises\obj\Debug\net5.0\ref\01.Train.dll

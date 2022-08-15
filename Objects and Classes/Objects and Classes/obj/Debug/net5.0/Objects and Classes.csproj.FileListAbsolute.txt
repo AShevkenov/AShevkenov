@@ -1,0 +1,16 @@
+C:\Users\ashev\source\repos\Objects and Classes\Objects and Classes\bin\Debug\net5.0\Objects and Classes.exe
+C:\Users\ashev\source\repos\Objects and Classes\Objects and Classes\bin\Debug\net5.0\Objects and Classes.deps.json
+C:\Users\ashev\source\repos\Objects and Classes\Objects and Classes\bin\Debug\net5.0\Objects and Classes.runtimeconfig.json
+C:\Users\ashev\source\repos\Objects and Classes\Objects and Classes\bin\Debug\net5.0\Objects and Classes.runtimeconfig.dev.json
+C:\Users\ashev\source\repos\Objects and Classes\Objects and Classes\bin\Debug\net5.0\Objects and Classes.dll
+C:\Users\ashev\source\repos\Objects and Classes\Objects and Classes\bin\Debug\net5.0\Objects and Classes.pdb
+C:\Users\ashev\source\repos\Objects and Classes\Objects and Classes\obj\Debug\net5.0\Objects and Classes.csproj.AssemblyReference.cache
+C:\Users\ashev\source\repos\Objects and Classes\Objects and Classes\obj\Debug\net5.0\Objects and Classes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ashev\source\repos\Objects and Classes\Objects and Classes\obj\Debug\net5.0\Objects and Classes.AssemblyInfoInputs.cache
+C:\Users\ashev\source\repos\Objects and Classes\Objects and Classes\obj\Debug\net5.0\Objects and Classes.AssemblyInfo.cs
+C:\Users\ashev\source\repos\Objects and Classes\Objects and Classes\obj\Debug\net5.0\Objects and Classes.csproj.CoreCompileInputs.cache
+C:\Users\ashev\source\repos\Objects and Classes\Objects and Classes\obj\Debug\net5.0\Objects and Classes.dll
+C:\Users\ashev\source\repos\Objects and Classes\Objects and Classes\obj\Debug\net5.0\refint\Objects and Classes.dll
+C:\Users\ashev\source\repos\Objects and Classes\Objects and Classes\obj\Debug\net5.0\Objects and Classes.pdb
+C:\Users\ashev\source\repos\Objects and Classes\Objects and Classes\obj\Debug\net5.0\Objects and Classes.genruntimeconfig.cache
+C:\Users\ashev\source\repos\Objects and Classes\Objects and Classes\obj\Debug\net5.0\ref\Objects and Classes.dll
