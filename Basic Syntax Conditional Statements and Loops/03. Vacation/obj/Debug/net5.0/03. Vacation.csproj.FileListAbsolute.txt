@@ -1,0 +1,16 @@
+C:\Users\ashev\source\repos\Basic Syntax Conditional Statements and Loops\03. Vacation\bin\Debug\net5.0\03. Vacation.exe
+C:\Users\ashev\source\repos\Basic Syntax Conditional Statements and Loops\03. Vacation\bin\Debug\net5.0\03. Vacation.deps.json
+C:\Users\ashev\source\repos\Basic Syntax Conditional Statements and Loops\03. Vacation\bin\Debug\net5.0\03. Vacation.runtimeconfig.json
+C:\Users\ashev\source\repos\Basic Syntax Conditional Statements and Loops\03. Vacation\bin\Debug\net5.0\03. Vacation.runtimeconfig.dev.json
+C:\Users\ashev\source\repos\Basic Syntax Conditional Statements and Loops\03. Vacation\bin\Debug\net5.0\03. Vacation.dll
+C:\Users\ashev\source\repos\Basic Syntax Conditional Statements and Loops\03. Vacation\bin\Debug\net5.0\03. Vacation.pdb
+C:\Users\ashev\source\repos\Basic Syntax Conditional Statements and Loops\03. Vacation\obj\Debug\net5.0\03. Vacation.csproj.AssemblyReference.cache
+C:\Users\ashev\source\repos\Basic Syntax Conditional Statements and Loops\03. Vacation\obj\Debug\net5.0\03. Vacation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ashev\source\repos\Basic Syntax Conditional Statements and Loops\03. Vacation\obj\Debug\net5.0\03. Vacation.AssemblyInfoInputs.cache
+C:\Users\ashev\source\repos\Basic Syntax Conditional Statements and Loops\03. Vacation\obj\Debug\net5.0\03. Vacation.AssemblyInfo.cs
+C:\Users\ashev\source\repos\Basic Syntax Conditional Statements and Loops\03. Vacation\obj\Debug\net5.0\03. Vacation.csproj.CoreCompileInputs.cache
+C:\Users\ashev\source\repos\Basic Syntax Conditional Statements and Loops\03. Vacation\obj\Debug\net5.0\03. Vacation.dll
+C:\Users\ashev\source\repos\Basic Syntax Conditional Statements and Loops\03. Vacation\obj\Debug\net5.0\refint\03. Vacation.dll
+C:\Users\ashev\source\repos\Basic Syntax Conditional Statements and Loops\03. Vacation\obj\Debug\net5.0\03. Vacation.pdb
+C:\Users\ashev\source\repos\Basic Syntax Conditional Statements and Loops\03. Vacation\obj\Debug\net5.0\03. Vacation.genruntimeconfig.cache
+C:\Users\ashev\source\repos\Basic Syntax Conditional Statements and Loops\03. Vacation\obj\Debug\net5.0\ref\03. Vacation.dll

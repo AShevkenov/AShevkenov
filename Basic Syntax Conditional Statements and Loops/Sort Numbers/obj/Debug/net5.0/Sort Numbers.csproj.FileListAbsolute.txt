@@ -1,0 +1,16 @@
+C:\Users\ashev\source\repos\Basic Syntax Conditional Statements and Loops\Sort Numbers\bin\Debug\net5.0\Sort Numbers.exe
+C:\Users\ashev\source\repos\Basic Syntax Conditional Statements and Loops\Sort Numbers\bin\Debug\net5.0\Sort Numbers.deps.json
+C:\Users\ashev\source\repos\Basic Syntax Conditional Statements and Loops\Sort Numbers\bin\Debug\net5.0\Sort Numbers.runtimeconfig.json
+C:\Users\ashev\source\repos\Basic Syntax Conditional Statements and Loops\Sort Numbers\bin\Debug\net5.0\Sort Numbers.runtimeconfig.dev.json
+C:\Users\ashev\source\repos\Basic Syntax Conditional Statements and Loops\Sort Numbers\bin\Debug\net5.0\Sort Numbers.dll
+C:\Users\ashev\source\repos\Basic Syntax Conditional Statements and Loops\Sort Numbers\bin\Debug\net5.0\Sort Numbers.pdb
+C:\Users\ashev\source\repos\Basic Syntax Conditional Statements and Loops\Sort Numbers\obj\Debug\net5.0\Sort Numbers.csproj.AssemblyReference.cache
+C:\Users\ashev\source\repos\Basic Syntax Conditional Statements and Loops\Sort Numbers\obj\Debug\net5.0\Sort Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ashev\source\repos\Basic Syntax Conditional Statements and Loops\Sort Numbers\obj\Debug\net5.0\Sort Numbers.AssemblyInfoInputs.cache
+C:\Users\ashev\source\repos\Basic Syntax Conditional Statements and Loops\Sort Numbers\obj\Debug\net5.0\Sort Numbers.AssemblyInfo.cs
+C:\Users\ashev\source\repos\Basic Syntax Conditional Statements and Loops\Sort Numbers\obj\Debug\net5.0\Sort Numbers.csproj.CoreCompileInputs.cache
+C:\Users\ashev\source\repos\Basic Syntax Conditional Statements and Loops\Sort Numbers\obj\Debug\net5.0\Sort Numbers.dll
+C:\Users\ashev\source\repos\Basic Syntax Conditional Statements and Loops\Sort Numbers\obj\Debug\net5.0\refint\Sort Numbers.dll
+C:\Users\ashev\source\repos\Basic Syntax Conditional Statements and Loops\Sort Numbers\obj\Debug\net5.0\Sort Numbers.pdb
+C:\Users\ashev\source\repos\Basic Syntax Conditional Statements and Loops\Sort Numbers\obj\Debug\net5.0\Sort Numbers.genruntimeconfig.cache
+C:\Users\ashev\source\repos\Basic Syntax Conditional Statements and Loops\Sort Numbers\obj\Debug\net5.0\ref\Sort Numbers.dll

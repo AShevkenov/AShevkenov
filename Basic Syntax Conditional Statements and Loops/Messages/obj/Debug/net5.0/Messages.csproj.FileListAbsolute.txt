@@ -1,0 +1,16 @@
+C:\Users\ashev\source\repos\Basic Syntax Conditional Statements and Loops\Messages\bin\Debug\net5.0\Messages.exe
+C:\Users\ashev\source\repos\Basic Syntax Conditional Statements and Loops\Messages\bin\Debug\net5.0\Messages.deps.json
+C:\Users\ashev\source\repos\Basic Syntax Conditional Statements and Loops\Messages\bin\Debug\net5.0\Messages.runtimeconfig.json
+C:\Users\ashev\source\repos\Basic Syntax Conditional Statements and Loops\Messages\bin\Debug\net5.0\Messages.runtimeconfig.dev.json
+C:\Users\ashev\source\repos\Basic Syntax Conditional Statements and Loops\Messages\bin\Debug\net5.0\Messages.dll
+C:\Users\ashev\source\repos\Basic Syntax Conditional Statements and Loops\Messages\bin\Debug\net5.0\Messages.pdb
+C:\Users\ashev\source\repos\Basic Syntax Conditional Statements and Loops\Messages\obj\Debug\net5.0\Messages.csproj.AssemblyReference.cache
+C:\Users\ashev\source\repos\Basic Syntax Conditional Statements and Loops\Messages\obj\Debug\net5.0\Messages.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ashev\source\repos\Basic Syntax Conditional Statements and Loops\Messages\obj\Debug\net5.0\Messages.AssemblyInfoInputs.cache
+C:\Users\ashev\source\repos\Basic Syntax Conditional Statements and Loops\Messages\obj\Debug\net5.0\Messages.AssemblyInfo.cs
+C:\Users\ashev\source\repos\Basic Syntax Conditional Statements and Loops\Messages\obj\Debug\net5.0\Messages.csproj.CoreCompileInputs.cache
+C:\Users\ashev\source\repos\Basic Syntax Conditional Statements and Loops\Messages\obj\Debug\net5.0\Messages.dll
+C:\Users\ashev\source\repos\Basic Syntax Conditional Statements and Loops\Messages\obj\Debug\net5.0\refint\Messages.dll
+C:\Users\ashev\source\repos\Basic Syntax Conditional Statements and Loops\Messages\obj\Debug\net5.0\Messages.pdb
+C:\Users\ashev\source\repos\Basic Syntax Conditional Statements and Loops\Messages\obj\Debug\net5.0\Messages.genruntimeconfig.cache
+C:\Users\ashev\source\repos\Basic Syntax Conditional Statements and Loops\Messages\obj\Debug\net5.0\ref\Messages.dll

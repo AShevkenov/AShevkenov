@@ -1,0 +1,16 @@
+C:\Users\ashev\source\repos\Basic Syntax Conditional Statements and Loops\Gaming Store\bin\Debug\net5.0\Gaming Store.exe
+C:\Users\ashev\source\repos\Basic Syntax Conditional Statements and Loops\Gaming Store\bin\Debug\net5.0\Gaming Store.deps.json
+C:\Users\ashev\source\repos\Basic Syntax Conditional Statements and Loops\Gaming Store\bin\Debug\net5.0\Gaming Store.runtimeconfig.json
+C:\Users\ashev\source\repos\Basic Syntax Conditional Statements and Loops\Gaming Store\bin\Debug\net5.0\Gaming Store.runtimeconfig.dev.json
+C:\Users\ashev\source\repos\Basic Syntax Conditional Statements and Loops\Gaming Store\bin\Debug\net5.0\Gaming Store.dll
+C:\Users\ashev\source\repos\Basic Syntax Conditional Statements and Loops\Gaming Store\bin\Debug\net5.0\Gaming Store.pdb
+C:\Users\ashev\source\repos\Basic Syntax Conditional Statements and Loops\Gaming Store\obj\Debug\net5.0\Gaming Store.csproj.AssemblyReference.cache
+C:\Users\ashev\source\repos\Basic Syntax Conditional Statements and Loops\Gaming Store\obj\Debug\net5.0\Gaming Store.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ashev\source\repos\Basic Syntax Conditional Statements and Loops\Gaming Store\obj\Debug\net5.0\Gaming Store.AssemblyInfoInputs.cache
+C:\Users\ashev\source\repos\Basic Syntax Conditional Statements and Loops\Gaming Store\obj\Debug\net5.0\Gaming Store.AssemblyInfo.cs
+C:\Users\ashev\source\repos\Basic Syntax Conditional Statements and Loops\Gaming Store\obj\Debug\net5.0\Gaming Store.csproj.CoreCompileInputs.cache
+C:\Users\ashev\source\repos\Basic Syntax Conditional Statements and Loops\Gaming Store\obj\Debug\net5.0\Gaming Store.dll
+C:\Users\ashev\source\repos\Basic Syntax Conditional Statements and Loops\Gaming Store\obj\Debug\net5.0\refint\Gaming Store.dll
+C:\Users\ashev\source\repos\Basic Syntax Conditional Statements and Loops\Gaming Store\obj\Debug\net5.0\Gaming Store.pdb
+C:\Users\ashev\source\repos\Basic Syntax Conditional Statements and Loops\Gaming Store\obj\Debug\net5.0\Gaming Store.genruntimeconfig.cache
+C:\Users\ashev\source\repos\Basic Syntax Conditional Statements and Loops\Gaming Store\obj\Debug\net5.0\ref\Gaming Store.dll

@@ -1,0 +1,16 @@
+C:\Users\ashev\source\repos\Basic Syntax Conditional Statements and Loops\04.Print and Sum\bin\Debug\net5.0\04.Print and Sum.exe
+C:\Users\ashev\source\repos\Basic Syntax Conditional Statements and Loops\04.Print and Sum\bin\Debug\net5.0\04.Print and Sum.deps.json
+C:\Users\ashev\source\repos\Basic Syntax Conditional Statements and Loops\04.Print and Sum\bin\Debug\net5.0\04.Print and Sum.runtimeconfig.json
+C:\Users\ashev\source\repos\Basic Syntax Conditional Statements and Loops\04.Print and Sum\bin\Debug\net5.0\04.Print and Sum.runtimeconfig.dev.json
+C:\Users\ashev\source\repos\Basic Syntax Conditional Statements and Loops\04.Print and Sum\bin\Debug\net5.0\04.Print and Sum.dll
+C:\Users\ashev\source\repos\Basic Syntax Conditional Statements and Loops\04.Print and Sum\bin\Debug\net5.0\04.Print and Sum.pdb
+C:\Users\ashev\source\repos\Basic Syntax Conditional Statements and Loops\04.Print and Sum\obj\Debug\net5.0\04.Print and Sum.csproj.AssemblyReference.cache
+C:\Users\ashev\source\repos\Basic Syntax Conditional Statements and Loops\04.Print and Sum\obj\Debug\net5.0\04.Print and Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ashev\source\repos\Basic Syntax Conditional Statements and Loops\04.Print and Sum\obj\Debug\net5.0\04.Print and Sum.AssemblyInfoInputs.cache
+C:\Users\ashev\source\repos\Basic Syntax Conditional Statements and Loops\04.Print and Sum\obj\Debug\net5.0\04.Print and Sum.AssemblyInfo.cs
+C:\Users\ashev\source\repos\Basic Syntax Conditional Statements and Loops\04.Print and Sum\obj\Debug\net5.0\04.Print and Sum.csproj.CoreCompileInputs.cache
+C:\Users\ashev\source\repos\Basic Syntax Conditional Statements and Loops\04.Print and Sum\obj\Debug\net5.0\04.Print and Sum.dll
+C:\Users\ashev\source\repos\Basic Syntax Conditional Statements and Loops\04.Print and Sum\obj\Debug\net5.0\refint\04.Print and Sum.dll
+C:\Users\ashev\source\repos\Basic Syntax Conditional Statements and Loops\04.Print and Sum\obj\Debug\net5.0\04.Print and Sum.pdb
+C:\Users\ashev\source\repos\Basic Syntax Conditional Statements and Loops\04.Print and Sum\obj\Debug\net5.0\04.Print and Sum.genruntimeconfig.cache
+C:\Users\ashev\source\repos\Basic Syntax Conditional Statements and Loops\04.Print and Sum\obj\Debug\net5.0\ref\04.Print and Sum.dll

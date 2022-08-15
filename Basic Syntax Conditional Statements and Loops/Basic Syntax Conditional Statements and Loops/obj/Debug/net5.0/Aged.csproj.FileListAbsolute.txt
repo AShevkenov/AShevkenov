@@ -1,0 +1,16 @@
+C:\Users\ashev\source\repos\Basic Syntax Conditional Statements and Loops\Basic Syntax Conditional Statements and Loops\bin\Debug\net5.0\Aged.exe
+C:\Users\ashev\source\repos\Basic Syntax Conditional Statements and Loops\Basic Syntax Conditional Statements and Loops\bin\Debug\net5.0\Aged.deps.json
+C:\Users\ashev\source\repos\Basic Syntax Conditional Statements and Loops\Basic Syntax Conditional Statements and Loops\bin\Debug\net5.0\Aged.runtimeconfig.json
+C:\Users\ashev\source\repos\Basic Syntax Conditional Statements and Loops\Basic Syntax Conditional Statements and Loops\bin\Debug\net5.0\Aged.runtimeconfig.dev.json
+C:\Users\ashev\source\repos\Basic Syntax Conditional Statements and Loops\Basic Syntax Conditional Statements and Loops\bin\Debug\net5.0\Aged.dll
+C:\Users\ashev\source\repos\Basic Syntax Conditional Statements and Loops\Basic Syntax Conditional Statements and Loops\bin\Debug\net5.0\Aged.pdb
+C:\Users\ashev\source\repos\Basic Syntax Conditional Statements and Loops\Basic Syntax Conditional Statements and Loops\obj\Debug\net5.0\Aged.csproj.AssemblyReference.cache
+C:\Users\ashev\source\repos\Basic Syntax Conditional Statements and Loops\Basic Syntax Conditional Statements and Loops\obj\Debug\net5.0\Aged.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ashev\source\repos\Basic Syntax Conditional Statements and Loops\Basic Syntax Conditional Statements and Loops\obj\Debug\net5.0\Aged.AssemblyInfoInputs.cache
+C:\Users\ashev\source\repos\Basic Syntax Conditional Statements and Loops\Basic Syntax Conditional Statements and Loops\obj\Debug\net5.0\Aged.AssemblyInfo.cs
+C:\Users\ashev\source\repos\Basic Syntax Conditional Statements and Loops\Basic Syntax Conditional Statements and Loops\obj\Debug\net5.0\Aged.csproj.CoreCompileInputs.cache
+C:\Users\ashev\source\repos\Basic Syntax Conditional Statements and Loops\Basic Syntax Conditional Statements and Loops\obj\Debug\net5.0\Aged.dll
+C:\Users\ashev\source\repos\Basic Syntax Conditional Statements and Loops\Basic Syntax Conditional Statements and Loops\obj\Debug\net5.0\refint\Aged.dll
+C:\Users\ashev\source\repos\Basic Syntax Conditional Statements and Loops\Basic Syntax Conditional Statements and Loops\obj\Debug\net5.0\Aged.pdb
+C:\Users\ashev\source\repos\Basic Syntax Conditional Statements and Loops\Basic Syntax Conditional Statements and Loops\obj\Debug\net5.0\Aged.genruntimeconfig.cache
+C:\Users\ashev\source\repos\Basic Syntax Conditional Statements and Loops\Basic Syntax Conditional Statements and Loops\obj\Debug\net5.0\ref\Aged.dll

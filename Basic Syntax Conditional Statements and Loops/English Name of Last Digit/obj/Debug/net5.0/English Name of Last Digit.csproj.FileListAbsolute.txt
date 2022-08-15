@@ -1,0 +1,16 @@
+C:\Users\ashev\source\repos\Basic Syntax Conditional Statements and Loops\English Name of Last Digit\bin\Debug\net5.0\English Name of Last Digit.exe
+C:\Users\ashev\source\repos\Basic Syntax Conditional Statements and Loops\English Name of Last Digit\bin\Debug\net5.0\English Name of Last Digit.deps.json
+C:\Users\ashev\source\repos\Basic Syntax Conditional Statements and Loops\English Name of Last Digit\bin\Debug\net5.0\English Name of Last Digit.runtimeconfig.json
+C:\Users\ashev\source\repos\Basic Syntax Conditional Statements and Loops\English Name of Last Digit\bin\Debug\net5.0\English Name of Last Digit.runtimeconfig.dev.json
+C:\Users\ashev\source\repos\Basic Syntax Conditional Statements and Loops\English Name of Last Digit\bin\Debug\net5.0\English Name of Last Digit.dll
+C:\Users\ashev\source\repos\Basic Syntax Conditional Statements and Loops\English Name of Last Digit\bin\Debug\net5.0\English Name of Last Digit.pdb
+C:\Users\ashev\source\repos\Basic Syntax Conditional Statements and Loops\English Name of Last Digit\obj\Debug\net5.0\English Name of Last Digit.csproj.AssemblyReference.cache
+C:\Users\ashev\source\repos\Basic Syntax Conditional Statements and Loops\English Name of Last Digit\obj\Debug\net5.0\English Name of Last Digit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ashev\source\repos\Basic Syntax Conditional Statements and Loops\English Name of Last Digit\obj\Debug\net5.0\English Name of Last Digit.AssemblyInfoInputs.cache
+C:\Users\ashev\source\repos\Basic Syntax Conditional Statements and Loops\English Name of Last Digit\obj\Debug\net5.0\English Name of Last Digit.AssemblyInfo.cs
+C:\Users\ashev\source\repos\Basic Syntax Conditional Statements and Loops\English Name of Last Digit\obj\Debug\net5.0\English Name of Last Digit.csproj.CoreCompileInputs.cache
+C:\Users\ashev\source\repos\Basic Syntax Conditional Statements and Loops\English Name of Last Digit\obj\Debug\net5.0\English Name of Last Digit.dll
+C:\Users\ashev\source\repos\Basic Syntax Conditional Statements and Loops\English Name of Last Digit\obj\Debug\net5.0\refint\English Name of Last Digit.dll
+C:\Users\ashev\source\repos\Basic Syntax Conditional Statements and Loops\English Name of Last Digit\obj\Debug\net5.0\English Name of Last Digit.pdb
+C:\Users\ashev\source\repos\Basic Syntax Conditional Statements and Loops\English Name of Last Digit\obj\Debug\net5.0\English Name of Last Digit.genruntimeconfig.cache
+C:\Users\ashev\source\repos\Basic Syntax Conditional Statements and Loops\English Name of Last Digit\obj\Debug\net5.0\ref\English Name of Last Digit.dll
