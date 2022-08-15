@@ -1,1 +1,1 @@
-This is C# Fundamentals exercises!
+This are C# Fundamentals exercises!
