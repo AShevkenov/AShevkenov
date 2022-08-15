@@ -1,0 +1,16 @@
+C:\Users\ashev\source\repos\Associative Arrays\Ranking\bin\Debug\net5.0\Ranking.exe
+C:\Users\ashev\source\repos\Associative Arrays\Ranking\bin\Debug\net5.0\Ranking.deps.json
+C:\Users\ashev\source\repos\Associative Arrays\Ranking\bin\Debug\net5.0\Ranking.runtimeconfig.json
+C:\Users\ashev\source\repos\Associative Arrays\Ranking\bin\Debug\net5.0\Ranking.runtimeconfig.dev.json
+C:\Users\ashev\source\repos\Associative Arrays\Ranking\bin\Debug\net5.0\Ranking.dll
+C:\Users\ashev\source\repos\Associative Arrays\Ranking\bin\Debug\net5.0\Ranking.pdb
+C:\Users\ashev\source\repos\Associative Arrays\Ranking\obj\Debug\net5.0\Ranking.csproj.AssemblyReference.cache
+C:\Users\ashev\source\repos\Associative Arrays\Ranking\obj\Debug\net5.0\Ranking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ashev\source\repos\Associative Arrays\Ranking\obj\Debug\net5.0\Ranking.AssemblyInfoInputs.cache
+C:\Users\ashev\source\repos\Associative Arrays\Ranking\obj\Debug\net5.0\Ranking.AssemblyInfo.cs
+C:\Users\ashev\source\repos\Associative Arrays\Ranking\obj\Debug\net5.0\Ranking.csproj.CoreCompileInputs.cache
+C:\Users\ashev\source\repos\Associative Arrays\Ranking\obj\Debug\net5.0\Ranking.dll
+C:\Users\ashev\source\repos\Associative Arrays\Ranking\obj\Debug\net5.0\refint\Ranking.dll
+C:\Users\ashev\source\repos\Associative Arrays\Ranking\obj\Debug\net5.0\Ranking.pdb
+C:\Users\ashev\source\repos\Associative Arrays\Ranking\obj\Debug\net5.0\Ranking.genruntimeconfig.cache
+C:\Users\ashev\source\repos\Associative Arrays\Ranking\obj\Debug\net5.0\ref\Ranking.dll
