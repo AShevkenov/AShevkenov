@@ -1,0 +1,16 @@
+C:\Users\ashev\source\repos\Mid Exam Preparation\Black Flag\bin\Debug\net5.0\Black Flag.exe
+C:\Users\ashev\source\repos\Mid Exam Preparation\Black Flag\bin\Debug\net5.0\Black Flag.deps.json
+C:\Users\ashev\source\repos\Mid Exam Preparation\Black Flag\bin\Debug\net5.0\Black Flag.runtimeconfig.json
+C:\Users\ashev\source\repos\Mid Exam Preparation\Black Flag\bin\Debug\net5.0\Black Flag.runtimeconfig.dev.json
+C:\Users\ashev\source\repos\Mid Exam Preparation\Black Flag\bin\Debug\net5.0\Black Flag.dll
+C:\Users\ashev\source\repos\Mid Exam Preparation\Black Flag\bin\Debug\net5.0\Black Flag.pdb
+C:\Users\ashev\source\repos\Mid Exam Preparation\Black Flag\obj\Debug\net5.0\Black Flag.csproj.AssemblyReference.cache
+C:\Users\ashev\source\repos\Mid Exam Preparation\Black Flag\obj\Debug\net5.0\Black Flag.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ashev\source\repos\Mid Exam Preparation\Black Flag\obj\Debug\net5.0\Black Flag.AssemblyInfoInputs.cache
+C:\Users\ashev\source\repos\Mid Exam Preparation\Black Flag\obj\Debug\net5.0\Black Flag.AssemblyInfo.cs
+C:\Users\ashev\source\repos\Mid Exam Preparation\Black Flag\obj\Debug\net5.0\Black Flag.csproj.CoreCompileInputs.cache
+C:\Users\ashev\source\repos\Mid Exam Preparation\Black Flag\obj\Debug\net5.0\Black Flag.dll
+C:\Users\ashev\source\repos\Mid Exam Preparation\Black Flag\obj\Debug\net5.0\refint\Black Flag.dll
+C:\Users\ashev\source\repos\Mid Exam Preparation\Black Flag\obj\Debug\net5.0\Black Flag.pdb
+C:\Users\ashev\source\repos\Mid Exam Preparation\Black Flag\obj\Debug\net5.0\Black Flag.genruntimeconfig.cache
+C:\Users\ashev\source\repos\Mid Exam Preparation\Black Flag\obj\Debug\net5.0\ref\Black Flag.dll

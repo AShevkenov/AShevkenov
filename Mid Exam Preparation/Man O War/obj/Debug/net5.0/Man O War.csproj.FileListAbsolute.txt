@@ -1,0 +1,16 @@
+C:\Users\ashev\source\repos\Mid Exam Preparation\Man O War\bin\Debug\net5.0\Man O War.exe
+C:\Users\ashev\source\repos\Mid Exam Preparation\Man O War\bin\Debug\net5.0\Man O War.deps.json
+C:\Users\ashev\source\repos\Mid Exam Preparation\Man O War\bin\Debug\net5.0\Man O War.runtimeconfig.json
+C:\Users\ashev\source\repos\Mid Exam Preparation\Man O War\bin\Debug\net5.0\Man O War.runtimeconfig.dev.json
+C:\Users\ashev\source\repos\Mid Exam Preparation\Man O War\bin\Debug\net5.0\Man O War.dll
+C:\Users\ashev\source\repos\Mid Exam Preparation\Man O War\bin\Debug\net5.0\Man O War.pdb
+C:\Users\ashev\source\repos\Mid Exam Preparation\Man O War\obj\Debug\net5.0\Man O War.csproj.AssemblyReference.cache
+C:\Users\ashev\source\repos\Mid Exam Preparation\Man O War\obj\Debug\net5.0\Man O War.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ashev\source\repos\Mid Exam Preparation\Man O War\obj\Debug\net5.0\Man O War.AssemblyInfoInputs.cache
+C:\Users\ashev\source\repos\Mid Exam Preparation\Man O War\obj\Debug\net5.0\Man O War.AssemblyInfo.cs
+C:\Users\ashev\source\repos\Mid Exam Preparation\Man O War\obj\Debug\net5.0\Man O War.csproj.CoreCompileInputs.cache
+C:\Users\ashev\source\repos\Mid Exam Preparation\Man O War\obj\Debug\net5.0\Man O War.dll
+C:\Users\ashev\source\repos\Mid Exam Preparation\Man O War\obj\Debug\net5.0\refint\Man O War.dll
+C:\Users\ashev\source\repos\Mid Exam Preparation\Man O War\obj\Debug\net5.0\Man O War.pdb
+C:\Users\ashev\source\repos\Mid Exam Preparation\Man O War\obj\Debug\net5.0\Man O War.genruntimeconfig.cache
+C:\Users\ashev\source\repos\Mid Exam Preparation\Man O War\obj\Debug\net5.0\ref\Man O War.dll

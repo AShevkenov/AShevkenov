@@ -1,0 +1,16 @@
+C:\Users\ashev\source\repos\Mid Exam Preparation\Treasure Hunt\bin\Debug\net5.0\Treasure Hunt.exe
+C:\Users\ashev\source\repos\Mid Exam Preparation\Treasure Hunt\bin\Debug\net5.0\Treasure Hunt.deps.json
+C:\Users\ashev\source\repos\Mid Exam Preparation\Treasure Hunt\bin\Debug\net5.0\Treasure Hunt.runtimeconfig.json
+C:\Users\ashev\source\repos\Mid Exam Preparation\Treasure Hunt\bin\Debug\net5.0\Treasure Hunt.runtimeconfig.dev.json
+C:\Users\ashev\source\repos\Mid Exam Preparation\Treasure Hunt\bin\Debug\net5.0\Treasure Hunt.dll
+C:\Users\ashev\source\repos\Mid Exam Preparation\Treasure Hunt\bin\Debug\net5.0\Treasure Hunt.pdb
+C:\Users\ashev\source\repos\Mid Exam Preparation\Treasure Hunt\obj\Debug\net5.0\Treasure Hunt.csproj.AssemblyReference.cache
+C:\Users\ashev\source\repos\Mid Exam Preparation\Treasure Hunt\obj\Debug\net5.0\Treasure Hunt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ashev\source\repos\Mid Exam Preparation\Treasure Hunt\obj\Debug\net5.0\Treasure Hunt.AssemblyInfoInputs.cache
+C:\Users\ashev\source\repos\Mid Exam Preparation\Treasure Hunt\obj\Debug\net5.0\Treasure Hunt.AssemblyInfo.cs
+C:\Users\ashev\source\repos\Mid Exam Preparation\Treasure Hunt\obj\Debug\net5.0\Treasure Hunt.csproj.CoreCompileInputs.cache
+C:\Users\ashev\source\repos\Mid Exam Preparation\Treasure Hunt\obj\Debug\net5.0\Treasure Hunt.dll
+C:\Users\ashev\source\repos\Mid Exam Preparation\Treasure Hunt\obj\Debug\net5.0\refint\Treasure Hunt.dll
+C:\Users\ashev\source\repos\Mid Exam Preparation\Treasure Hunt\obj\Debug\net5.0\Treasure Hunt.pdb
+C:\Users\ashev\source\repos\Mid Exam Preparation\Treasure Hunt\obj\Debug\net5.0\Treasure Hunt.genruntimeconfig.cache
+C:\Users\ashev\source\repos\Mid Exam Preparation\Treasure Hunt\obj\Debug\net5.0\ref\Treasure Hunt.dll

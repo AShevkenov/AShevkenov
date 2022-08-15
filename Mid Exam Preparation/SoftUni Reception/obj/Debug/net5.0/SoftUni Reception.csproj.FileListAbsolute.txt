@@ -1,0 +1,16 @@
+C:\Users\ashev\source\repos\Mid Exam Preparation\SoftUni Reception\bin\Debug\net5.0\SoftUni Reception.exe
+C:\Users\ashev\source\repos\Mid Exam Preparation\SoftUni Reception\bin\Debug\net5.0\SoftUni Reception.deps.json
+C:\Users\ashev\source\repos\Mid Exam Preparation\SoftUni Reception\bin\Debug\net5.0\SoftUni Reception.runtimeconfig.json
+C:\Users\ashev\source\repos\Mid Exam Preparation\SoftUni Reception\bin\Debug\net5.0\SoftUni Reception.runtimeconfig.dev.json
+C:\Users\ashev\source\repos\Mid Exam Preparation\SoftUni Reception\bin\Debug\net5.0\SoftUni Reception.dll
+C:\Users\ashev\source\repos\Mid Exam Preparation\SoftUni Reception\bin\Debug\net5.0\SoftUni Reception.pdb
+C:\Users\ashev\source\repos\Mid Exam Preparation\SoftUni Reception\obj\Debug\net5.0\SoftUni Reception.csproj.AssemblyReference.cache
+C:\Users\ashev\source\repos\Mid Exam Preparation\SoftUni Reception\obj\Debug\net5.0\SoftUni Reception.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ashev\source\repos\Mid Exam Preparation\SoftUni Reception\obj\Debug\net5.0\SoftUni Reception.AssemblyInfoInputs.cache
+C:\Users\ashev\source\repos\Mid Exam Preparation\SoftUni Reception\obj\Debug\net5.0\SoftUni Reception.AssemblyInfo.cs
+C:\Users\ashev\source\repos\Mid Exam Preparation\SoftUni Reception\obj\Debug\net5.0\SoftUni Reception.csproj.CoreCompileInputs.cache
+C:\Users\ashev\source\repos\Mid Exam Preparation\SoftUni Reception\obj\Debug\net5.0\SoftUni Reception.dll
+C:\Users\ashev\source\repos\Mid Exam Preparation\SoftUni Reception\obj\Debug\net5.0\refint\SoftUni Reception.dll
+C:\Users\ashev\source\repos\Mid Exam Preparation\SoftUni Reception\obj\Debug\net5.0\SoftUni Reception.pdb
+C:\Users\ashev\source\repos\Mid Exam Preparation\SoftUni Reception\obj\Debug\net5.0\SoftUni Reception.genruntimeconfig.cache
+C:\Users\ashev\source\repos\Mid Exam Preparation\SoftUni Reception\obj\Debug\net5.0\ref\SoftUni Reception.dll

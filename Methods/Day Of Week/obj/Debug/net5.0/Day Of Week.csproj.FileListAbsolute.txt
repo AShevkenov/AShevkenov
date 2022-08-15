@@ -1,0 +1,16 @@
+C:\Users\ashev\source\repos\Methods\Day Of Week\bin\Debug\net5.0\Day Of Week.exe
+C:\Users\ashev\source\repos\Methods\Day Of Week\bin\Debug\net5.0\Day Of Week.deps.json
+C:\Users\ashev\source\repos\Methods\Day Of Week\bin\Debug\net5.0\Day Of Week.runtimeconfig.json
+C:\Users\ashev\source\repos\Methods\Day Of Week\bin\Debug\net5.0\Day Of Week.runtimeconfig.dev.json
+C:\Users\ashev\source\repos\Methods\Day Of Week\bin\Debug\net5.0\Day Of Week.dll
+C:\Users\ashev\source\repos\Methods\Day Of Week\bin\Debug\net5.0\Day Of Week.pdb
+C:\Users\ashev\source\repos\Methods\Day Of Week\obj\Debug\net5.0\Day Of Week.csproj.AssemblyReference.cache
+C:\Users\ashev\source\repos\Methods\Day Of Week\obj\Debug\net5.0\Day Of Week.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ashev\source\repos\Methods\Day Of Week\obj\Debug\net5.0\Day Of Week.AssemblyInfoInputs.cache
+C:\Users\ashev\source\repos\Methods\Day Of Week\obj\Debug\net5.0\Day Of Week.AssemblyInfo.cs
+C:\Users\ashev\source\repos\Methods\Day Of Week\obj\Debug\net5.0\Day Of Week.csproj.CoreCompileInputs.cache
+C:\Users\ashev\source\repos\Methods\Day Of Week\obj\Debug\net5.0\Day Of Week.dll
+C:\Users\ashev\source\repos\Methods\Day Of Week\obj\Debug\net5.0\refint\Day Of Week.dll
+C:\Users\ashev\source\repos\Methods\Day Of Week\obj\Debug\net5.0\Day Of Week.pdb
+C:\Users\ashev\source\repos\Methods\Day Of Week\obj\Debug\net5.0\Day Of Week.genruntimeconfig.cache
+C:\Users\ashev\source\repos\Methods\Day Of Week\obj\Debug\net5.0\ref\Day Of Week.dll

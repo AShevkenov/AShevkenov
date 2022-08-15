@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Take Skip Rope/1.0.0": {
+        "runtime": {
+          "Take Skip Rope.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Take Skip Rope/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

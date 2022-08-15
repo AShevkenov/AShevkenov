@@ -1,0 +1,16 @@
+C:\Users\ashev\source\repos\Mid Exam Preparation\Computer Store\bin\Debug\net5.0\Computer Store.exe
+C:\Users\ashev\source\repos\Mid Exam Preparation\Computer Store\bin\Debug\net5.0\Computer Store.deps.json
+C:\Users\ashev\source\repos\Mid Exam Preparation\Computer Store\bin\Debug\net5.0\Computer Store.runtimeconfig.json
+C:\Users\ashev\source\repos\Mid Exam Preparation\Computer Store\bin\Debug\net5.0\Computer Store.runtimeconfig.dev.json
+C:\Users\ashev\source\repos\Mid Exam Preparation\Computer Store\bin\Debug\net5.0\Computer Store.dll
+C:\Users\ashev\source\repos\Mid Exam Preparation\Computer Store\bin\Debug\net5.0\Computer Store.pdb
+C:\Users\ashev\source\repos\Mid Exam Preparation\Computer Store\obj\Debug\net5.0\Computer Store.csproj.AssemblyReference.cache
+C:\Users\ashev\source\repos\Mid Exam Preparation\Computer Store\obj\Debug\net5.0\Computer Store.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ashev\source\repos\Mid Exam Preparation\Computer Store\obj\Debug\net5.0\Computer Store.AssemblyInfoInputs.cache
+C:\Users\ashev\source\repos\Mid Exam Preparation\Computer Store\obj\Debug\net5.0\Computer Store.AssemblyInfo.cs
+C:\Users\ashev\source\repos\Mid Exam Preparation\Computer Store\obj\Debug\net5.0\Computer Store.csproj.CoreCompileInputs.cache
+C:\Users\ashev\source\repos\Mid Exam Preparation\Computer Store\obj\Debug\net5.0\Computer Store.dll
+C:\Users\ashev\source\repos\Mid Exam Preparation\Computer Store\obj\Debug\net5.0\refint\Computer Store.dll
+C:\Users\ashev\source\repos\Mid Exam Preparation\Computer Store\obj\Debug\net5.0\Computer Store.pdb
+C:\Users\ashev\source\repos\Mid Exam Preparation\Computer Store\obj\Debug\net5.0\Computer Store.genruntimeconfig.cache
+C:\Users\ashev\source\repos\Mid Exam Preparation\Computer Store\obj\Debug\net5.0\ref\Computer Store.dll

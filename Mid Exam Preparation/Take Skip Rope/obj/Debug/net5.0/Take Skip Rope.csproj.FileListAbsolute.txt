@@ -1,0 +1,16 @@
+C:\Users\ashev\source\repos\Mid Exam Preparation\Take Skip Rope\bin\Debug\net5.0\Take Skip Rope.exe
+C:\Users\ashev\source\repos\Mid Exam Preparation\Take Skip Rope\bin\Debug\net5.0\Take Skip Rope.deps.json
+C:\Users\ashev\source\repos\Mid Exam Preparation\Take Skip Rope\bin\Debug\net5.0\Take Skip Rope.runtimeconfig.json
+C:\Users\ashev\source\repos\Mid Exam Preparation\Take Skip Rope\bin\Debug\net5.0\Take Skip Rope.runtimeconfig.dev.json
+C:\Users\ashev\source\repos\Mid Exam Preparation\Take Skip Rope\bin\Debug\net5.0\Take Skip Rope.dll
+C:\Users\ashev\source\repos\Mid Exam Preparation\Take Skip Rope\bin\Debug\net5.0\Take Skip Rope.pdb
+C:\Users\ashev\source\repos\Mid Exam Preparation\Take Skip Rope\obj\Debug\net5.0\Take Skip Rope.csproj.AssemblyReference.cache
+C:\Users\ashev\source\repos\Mid Exam Preparation\Take Skip Rope\obj\Debug\net5.0\Take Skip Rope.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ashev\source\repos\Mid Exam Preparation\Take Skip Rope\obj\Debug\net5.0\Take Skip Rope.AssemblyInfoInputs.cache
+C:\Users\ashev\source\repos\Mid Exam Preparation\Take Skip Rope\obj\Debug\net5.0\Take Skip Rope.AssemblyInfo.cs
+C:\Users\ashev\source\repos\Mid Exam Preparation\Take Skip Rope\obj\Debug\net5.0\Take Skip Rope.csproj.CoreCompileInputs.cache
+C:\Users\ashev\source\repos\Mid Exam Preparation\Take Skip Rope\obj\Debug\net5.0\Take Skip Rope.dll
+C:\Users\ashev\source\repos\Mid Exam Preparation\Take Skip Rope\obj\Debug\net5.0\refint\Take Skip Rope.dll
+C:\Users\ashev\source\repos\Mid Exam Preparation\Take Skip Rope\obj\Debug\net5.0\Take Skip Rope.pdb
+C:\Users\ashev\source\repos\Mid Exam Preparation\Take Skip Rope\obj\Debug\net5.0\Take Skip Rope.genruntimeconfig.cache
+C:\Users\ashev\source\repos\Mid Exam Preparation\Take Skip Rope\obj\Debug\net5.0\ref\Take Skip Rope.dll

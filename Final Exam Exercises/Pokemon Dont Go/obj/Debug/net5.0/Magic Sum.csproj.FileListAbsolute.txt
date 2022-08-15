@@ -1,0 +1,16 @@
+C:\Users\ashev\source\repos\Final Exam Exercises\Pokemon Dont Go\bin\Debug\net5.0\Magic Sum.exe
+C:\Users\ashev\source\repos\Final Exam Exercises\Pokemon Dont Go\bin\Debug\net5.0\Magic Sum.deps.json
+C:\Users\ashev\source\repos\Final Exam Exercises\Pokemon Dont Go\bin\Debug\net5.0\Magic Sum.runtimeconfig.json
+C:\Users\ashev\source\repos\Final Exam Exercises\Pokemon Dont Go\bin\Debug\net5.0\Magic Sum.runtimeconfig.dev.json
+C:\Users\ashev\source\repos\Final Exam Exercises\Pokemon Dont Go\bin\Debug\net5.0\Magic Sum.dll
+C:\Users\ashev\source\repos\Final Exam Exercises\Pokemon Dont Go\bin\Debug\net5.0\Magic Sum.pdb
+C:\Users\ashev\source\repos\Final Exam Exercises\Pokemon Dont Go\obj\Debug\net5.0\Magic Sum.csproj.AssemblyReference.cache
+C:\Users\ashev\source\repos\Final Exam Exercises\Pokemon Dont Go\obj\Debug\net5.0\Magic Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ashev\source\repos\Final Exam Exercises\Pokemon Dont Go\obj\Debug\net5.0\Magic Sum.AssemblyInfoInputs.cache
+C:\Users\ashev\source\repos\Final Exam Exercises\Pokemon Dont Go\obj\Debug\net5.0\Magic Sum.AssemblyInfo.cs
+C:\Users\ashev\source\repos\Final Exam Exercises\Pokemon Dont Go\obj\Debug\net5.0\Magic Sum.csproj.CoreCompileInputs.cache
+C:\Users\ashev\source\repos\Final Exam Exercises\Pokemon Dont Go\obj\Debug\net5.0\Magic Sum.dll
+C:\Users\ashev\source\repos\Final Exam Exercises\Pokemon Dont Go\obj\Debug\net5.0\refint\Magic Sum.dll
+C:\Users\ashev\source\repos\Final Exam Exercises\Pokemon Dont Go\obj\Debug\net5.0\Magic Sum.pdb
+C:\Users\ashev\source\repos\Final Exam Exercises\Pokemon Dont Go\obj\Debug\net5.0\Magic Sum.genruntimeconfig.cache
+C:\Users\ashev\source\repos\Final Exam Exercises\Pokemon Dont Go\obj\Debug\net5.0\ref\Magic Sum.dll

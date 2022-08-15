@@ -1,0 +1,16 @@
+C:\Users\ashev\source\repos\Mid Exam Preparation\Phone Shop\bin\Debug\net5.0\Phone Shop.exe
+C:\Users\ashev\source\repos\Mid Exam Preparation\Phone Shop\bin\Debug\net5.0\Phone Shop.deps.json
+C:\Users\ashev\source\repos\Mid Exam Preparation\Phone Shop\bin\Debug\net5.0\Phone Shop.runtimeconfig.json
+C:\Users\ashev\source\repos\Mid Exam Preparation\Phone Shop\bin\Debug\net5.0\Phone Shop.runtimeconfig.dev.json
+C:\Users\ashev\source\repos\Mid Exam Preparation\Phone Shop\bin\Debug\net5.0\Phone Shop.dll
+C:\Users\ashev\source\repos\Mid Exam Preparation\Phone Shop\bin\Debug\net5.0\Phone Shop.pdb
+C:\Users\ashev\source\repos\Mid Exam Preparation\Phone Shop\obj\Debug\net5.0\Phone Shop.csproj.AssemblyReference.cache
+C:\Users\ashev\source\repos\Mid Exam Preparation\Phone Shop\obj\Debug\net5.0\Phone Shop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ashev\source\repos\Mid Exam Preparation\Phone Shop\obj\Debug\net5.0\Phone Shop.AssemblyInfoInputs.cache
+C:\Users\ashev\source\repos\Mid Exam Preparation\Phone Shop\obj\Debug\net5.0\Phone Shop.AssemblyInfo.cs
+C:\Users\ashev\source\repos\Mid Exam Preparation\Phone Shop\obj\Debug\net5.0\Phone Shop.csproj.CoreCompileInputs.cache
+C:\Users\ashev\source\repos\Mid Exam Preparation\Phone Shop\obj\Debug\net5.0\Phone Shop.dll
+C:\Users\ashev\source\repos\Mid Exam Preparation\Phone Shop\obj\Debug\net5.0\refint\Phone Shop.dll
+C:\Users\ashev\source\repos\Mid Exam Preparation\Phone Shop\obj\Debug\net5.0\Phone Shop.pdb
+C:\Users\ashev\source\repos\Mid Exam Preparation\Phone Shop\obj\Debug\net5.0\Phone Shop.genruntimeconfig.cache
+C:\Users\ashev\source\repos\Mid Exam Preparation\Phone Shop\obj\Debug\net5.0\ref\Phone Shop.dll

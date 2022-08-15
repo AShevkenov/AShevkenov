@@ -1,0 +1,16 @@
+C:\Users\ashev\source\repos\Mid Exam Preparation\Array Modifier\bin\Debug\net5.0\Array Modifier.exe
+C:\Users\ashev\source\repos\Mid Exam Preparation\Array Modifier\bin\Debug\net5.0\Array Modifier.deps.json
+C:\Users\ashev\source\repos\Mid Exam Preparation\Array Modifier\bin\Debug\net5.0\Array Modifier.runtimeconfig.json
+C:\Users\ashev\source\repos\Mid Exam Preparation\Array Modifier\bin\Debug\net5.0\Array Modifier.runtimeconfig.dev.json
+C:\Users\ashev\source\repos\Mid Exam Preparation\Array Modifier\bin\Debug\net5.0\Array Modifier.dll
+C:\Users\ashev\source\repos\Mid Exam Preparation\Array Modifier\bin\Debug\net5.0\Array Modifier.pdb
+C:\Users\ashev\source\repos\Mid Exam Preparation\Array Modifier\obj\Debug\net5.0\Array Modifier.csproj.AssemblyReference.cache
+C:\Users\ashev\source\repos\Mid Exam Preparation\Array Modifier\obj\Debug\net5.0\Array Modifier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ashev\source\repos\Mid Exam Preparation\Array Modifier\obj\Debug\net5.0\Array Modifier.AssemblyInfoInputs.cache
+C:\Users\ashev\source\repos\Mid Exam Preparation\Array Modifier\obj\Debug\net5.0\Array Modifier.AssemblyInfo.cs
+C:\Users\ashev\source\repos\Mid Exam Preparation\Array Modifier\obj\Debug\net5.0\Array Modifier.csproj.CoreCompileInputs.cache
+C:\Users\ashev\source\repos\Mid Exam Preparation\Array Modifier\obj\Debug\net5.0\Array Modifier.dll
+C:\Users\ashev\source\repos\Mid Exam Preparation\Array Modifier\obj\Debug\net5.0\refint\Array Modifier.dll
+C:\Users\ashev\source\repos\Mid Exam Preparation\Array Modifier\obj\Debug\net5.0\Array Modifier.pdb
+C:\Users\ashev\source\repos\Mid Exam Preparation\Array Modifier\obj\Debug\net5.0\Array Modifier.genruntimeconfig.cache
+C:\Users\ashev\source\repos\Mid Exam Preparation\Array Modifier\obj\Debug\net5.0\ref\Array Modifier.dll

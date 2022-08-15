@@ -1,0 +1,16 @@
+C:\Users\ashev\source\repos\Mid Exam Preparation\Space Travel\bin\Debug\net5.0\Space Travel.exe
+C:\Users\ashev\source\repos\Mid Exam Preparation\Space Travel\bin\Debug\net5.0\Space Travel.deps.json
+C:\Users\ashev\source\repos\Mid Exam Preparation\Space Travel\bin\Debug\net5.0\Space Travel.runtimeconfig.json
+C:\Users\ashev\source\repos\Mid Exam Preparation\Space Travel\bin\Debug\net5.0\Space Travel.runtimeconfig.dev.json
+C:\Users\ashev\source\repos\Mid Exam Preparation\Space Travel\bin\Debug\net5.0\Space Travel.dll
+C:\Users\ashev\source\repos\Mid Exam Preparation\Space Travel\bin\Debug\net5.0\Space Travel.pdb
+C:\Users\ashev\source\repos\Mid Exam Preparation\Space Travel\obj\Debug\net5.0\Space Travel.csproj.AssemblyReference.cache
+C:\Users\ashev\source\repos\Mid Exam Preparation\Space Travel\obj\Debug\net5.0\Space Travel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ashev\source\repos\Mid Exam Preparation\Space Travel\obj\Debug\net5.0\Space Travel.AssemblyInfoInputs.cache
+C:\Users\ashev\source\repos\Mid Exam Preparation\Space Travel\obj\Debug\net5.0\Space Travel.AssemblyInfo.cs
+C:\Users\ashev\source\repos\Mid Exam Preparation\Space Travel\obj\Debug\net5.0\Space Travel.csproj.CoreCompileInputs.cache
+C:\Users\ashev\source\repos\Mid Exam Preparation\Space Travel\obj\Debug\net5.0\Space Travel.dll
+C:\Users\ashev\source\repos\Mid Exam Preparation\Space Travel\obj\Debug\net5.0\refint\Space Travel.dll
+C:\Users\ashev\source\repos\Mid Exam Preparation\Space Travel\obj\Debug\net5.0\Space Travel.pdb
+C:\Users\ashev\source\repos\Mid Exam Preparation\Space Travel\obj\Debug\net5.0\Space Travel.genruntimeconfig.cache
+C:\Users\ashev\source\repos\Mid Exam Preparation\Space Travel\obj\Debug\net5.0\ref\Space Travel.dll

@@ -1,0 +1,16 @@
+C:\Users\ashev\source\repos\List\List Manipulation Advanced 2nd option\bin\Debug\net5.0\List Manipulation Advanced 2nd option.exe
+C:\Users\ashev\source\repos\List\List Manipulation Advanced 2nd option\bin\Debug\net5.0\List Manipulation Advanced 2nd option.deps.json
+C:\Users\ashev\source\repos\List\List Manipulation Advanced 2nd option\bin\Debug\net5.0\List Manipulation Advanced 2nd option.runtimeconfig.json
+C:\Users\ashev\source\repos\List\List Manipulation Advanced 2nd option\bin\Debug\net5.0\List Manipulation Advanced 2nd option.runtimeconfig.dev.json
+C:\Users\ashev\source\repos\List\List Manipulation Advanced 2nd option\bin\Debug\net5.0\List Manipulation Advanced 2nd option.dll
+C:\Users\ashev\source\repos\List\List Manipulation Advanced 2nd option\bin\Debug\net5.0\List Manipulation Advanced 2nd option.pdb
+C:\Users\ashev\source\repos\List\List Manipulation Advanced 2nd option\obj\Debug\net5.0\List Manipulation Advanced 2nd option.csproj.AssemblyReference.cache
+C:\Users\ashev\source\repos\List\List Manipulation Advanced 2nd option\obj\Debug\net5.0\List Manipulation Advanced 2nd option.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ashev\source\repos\List\List Manipulation Advanced 2nd option\obj\Debug\net5.0\List Manipulation Advanced 2nd option.AssemblyInfoInputs.cache
+C:\Users\ashev\source\repos\List\List Manipulation Advanced 2nd option\obj\Debug\net5.0\List Manipulation Advanced 2nd option.AssemblyInfo.cs
+C:\Users\ashev\source\repos\List\List Manipulation Advanced 2nd option\obj\Debug\net5.0\List Manipulation Advanced 2nd option.csproj.CoreCompileInputs.cache
+C:\Users\ashev\source\repos\List\List Manipulation Advanced 2nd option\obj\Debug\net5.0\List Manipulation Advanced 2nd option.dll
+C:\Users\ashev\source\repos\List\List Manipulation Advanced 2nd option\obj\Debug\net5.0\refint\List Manipulation Advanced 2nd option.dll
+C:\Users\ashev\source\repos\List\List Manipulation Advanced 2nd option\obj\Debug\net5.0\List Manipulation Advanced 2nd option.pdb
+C:\Users\ashev\source\repos\List\List Manipulation Advanced 2nd option\obj\Debug\net5.0\List Manipulation Advanced 2nd option.genruntimeconfig.cache
+C:\Users\ashev\source\repos\List\List Manipulation Advanced 2nd option\obj\Debug\net5.0\ref\List Manipulation Advanced 2nd option.dll

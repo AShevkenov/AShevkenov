@@ -1,0 +1,16 @@
+C:\Users\ashev\source\repos\List\LIST MANIPULATION ADVANCED TEST\bin\Debug\net5.0\LIST MANIPULATION ADVANCED TEST.exe
+C:\Users\ashev\source\repos\List\LIST MANIPULATION ADVANCED TEST\bin\Debug\net5.0\LIST MANIPULATION ADVANCED TEST.deps.json
+C:\Users\ashev\source\repos\List\LIST MANIPULATION ADVANCED TEST\bin\Debug\net5.0\LIST MANIPULATION ADVANCED TEST.runtimeconfig.json
+C:\Users\ashev\source\repos\List\LIST MANIPULATION ADVANCED TEST\bin\Debug\net5.0\LIST MANIPULATION ADVANCED TEST.runtimeconfig.dev.json
+C:\Users\ashev\source\repos\List\LIST MANIPULATION ADVANCED TEST\bin\Debug\net5.0\LIST MANIPULATION ADVANCED TEST.dll
+C:\Users\ashev\source\repos\List\LIST MANIPULATION ADVANCED TEST\bin\Debug\net5.0\LIST MANIPULATION ADVANCED TEST.pdb
+C:\Users\ashev\source\repos\List\LIST MANIPULATION ADVANCED TEST\obj\Debug\net5.0\LIST MANIPULATION ADVANCED TEST.csproj.AssemblyReference.cache
+C:\Users\ashev\source\repos\List\LIST MANIPULATION ADVANCED TEST\obj\Debug\net5.0\LIST MANIPULATION ADVANCED TEST.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ashev\source\repos\List\LIST MANIPULATION ADVANCED TEST\obj\Debug\net5.0\LIST MANIPULATION ADVANCED TEST.AssemblyInfoInputs.cache
+C:\Users\ashev\source\repos\List\LIST MANIPULATION ADVANCED TEST\obj\Debug\net5.0\LIST MANIPULATION ADVANCED TEST.AssemblyInfo.cs
+C:\Users\ashev\source\repos\List\LIST MANIPULATION ADVANCED TEST\obj\Debug\net5.0\LIST MANIPULATION ADVANCED TEST.csproj.CoreCompileInputs.cache
+C:\Users\ashev\source\repos\List\LIST MANIPULATION ADVANCED TEST\obj\Debug\net5.0\LIST MANIPULATION ADVANCED TEST.dll
+C:\Users\ashev\source\repos\List\LIST MANIPULATION ADVANCED TEST\obj\Debug\net5.0\refint\LIST MANIPULATION ADVANCED TEST.dll
+C:\Users\ashev\source\repos\List\LIST MANIPULATION ADVANCED TEST\obj\Debug\net5.0\LIST MANIPULATION ADVANCED TEST.pdb
+C:\Users\ashev\source\repos\List\LIST MANIPULATION ADVANCED TEST\obj\Debug\net5.0\LIST MANIPULATION ADVANCED TEST.genruntimeconfig.cache
+C:\Users\ashev\source\repos\List\LIST MANIPULATION ADVANCED TEST\obj\Debug\net5.0\ref\LIST MANIPULATION ADVANCED TEST.dll

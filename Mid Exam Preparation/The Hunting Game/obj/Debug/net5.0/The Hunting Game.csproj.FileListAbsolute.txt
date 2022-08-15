@@ -1,0 +1,16 @@
+C:\Users\ashev\source\repos\Mid Exam Preparation\The Hunting Game\bin\Debug\net5.0\The Hunting Game.exe
+C:\Users\ashev\source\repos\Mid Exam Preparation\The Hunting Game\bin\Debug\net5.0\The Hunting Game.deps.json
+C:\Users\ashev\source\repos\Mid Exam Preparation\The Hunting Game\bin\Debug\net5.0\The Hunting Game.runtimeconfig.json
+C:\Users\ashev\source\repos\Mid Exam Preparation\The Hunting Game\bin\Debug\net5.0\The Hunting Game.runtimeconfig.dev.json
+C:\Users\ashev\source\repos\Mid Exam Preparation\The Hunting Game\bin\Debug\net5.0\The Hunting Game.dll
+C:\Users\ashev\source\repos\Mid Exam Preparation\The Hunting Game\bin\Debug\net5.0\The Hunting Game.pdb
+C:\Users\ashev\source\repos\Mid Exam Preparation\The Hunting Game\obj\Debug\net5.0\The Hunting Game.csproj.AssemblyReference.cache
+C:\Users\ashev\source\repos\Mid Exam Preparation\The Hunting Game\obj\Debug\net5.0\The Hunting Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ashev\source\repos\Mid Exam Preparation\The Hunting Game\obj\Debug\net5.0\The Hunting Game.AssemblyInfoInputs.cache
+C:\Users\ashev\source\repos\Mid Exam Preparation\The Hunting Game\obj\Debug\net5.0\The Hunting Game.AssemblyInfo.cs
+C:\Users\ashev\source\repos\Mid Exam Preparation\The Hunting Game\obj\Debug\net5.0\The Hunting Game.csproj.CoreCompileInputs.cache
+C:\Users\ashev\source\repos\Mid Exam Preparation\The Hunting Game\obj\Debug\net5.0\The Hunting Game.dll
+C:\Users\ashev\source\repos\Mid Exam Preparation\The Hunting Game\obj\Debug\net5.0\refint\The Hunting Game.dll
+C:\Users\ashev\source\repos\Mid Exam Preparation\The Hunting Game\obj\Debug\net5.0\The Hunting Game.pdb
+C:\Users\ashev\source\repos\Mid Exam Preparation\The Hunting Game\obj\Debug\net5.0\The Hunting Game.genruntimeconfig.cache
+C:\Users\ashev\source\repos\Mid Exam Preparation\The Hunting Game\obj\Debug\net5.0\ref\The Hunting Game.dll

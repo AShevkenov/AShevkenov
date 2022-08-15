@@ -1,0 +1,16 @@
+C:\Users\ashev\source\repos\Mid Exam Preparation\Shoot for the Win\bin\Debug\net5.0\Shoot for the Win.exe
+C:\Users\ashev\source\repos\Mid Exam Preparation\Shoot for the Win\bin\Debug\net5.0\Shoot for the Win.deps.json
+C:\Users\ashev\source\repos\Mid Exam Preparation\Shoot for the Win\bin\Debug\net5.0\Shoot for the Win.runtimeconfig.json
+C:\Users\ashev\source\repos\Mid Exam Preparation\Shoot for the Win\bin\Debug\net5.0\Shoot for the Win.runtimeconfig.dev.json
+C:\Users\ashev\source\repos\Mid Exam Preparation\Shoot for the Win\bin\Debug\net5.0\Shoot for the Win.dll
+C:\Users\ashev\source\repos\Mid Exam Preparation\Shoot for the Win\bin\Debug\net5.0\Shoot for the Win.pdb
+C:\Users\ashev\source\repos\Mid Exam Preparation\Shoot for the Win\obj\Debug\net5.0\Shoot for the Win.csproj.AssemblyReference.cache
+C:\Users\ashev\source\repos\Mid Exam Preparation\Shoot for the Win\obj\Debug\net5.0\Shoot for the Win.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ashev\source\repos\Mid Exam Preparation\Shoot for the Win\obj\Debug\net5.0\Shoot for the Win.AssemblyInfoInputs.cache
+C:\Users\ashev\source\repos\Mid Exam Preparation\Shoot for the Win\obj\Debug\net5.0\Shoot for the Win.AssemblyInfo.cs
+C:\Users\ashev\source\repos\Mid Exam Preparation\Shoot for the Win\obj\Debug\net5.0\Shoot for the Win.csproj.CoreCompileInputs.cache
+C:\Users\ashev\source\repos\Mid Exam Preparation\Shoot for the Win\obj\Debug\net5.0\Shoot for the Win.dll
+C:\Users\ashev\source\repos\Mid Exam Preparation\Shoot for the Win\obj\Debug\net5.0\refint\Shoot for the Win.dll
+C:\Users\ashev\source\repos\Mid Exam Preparation\Shoot for the Win\obj\Debug\net5.0\Shoot for the Win.pdb
+C:\Users\ashev\source\repos\Mid Exam Preparation\Shoot for the Win\obj\Debug\net5.0\Shoot for the Win.genruntimeconfig.cache
+C:\Users\ashev\source\repos\Mid Exam Preparation\Shoot for the Win\obj\Debug\net5.0\ref\Shoot for the Win.dll

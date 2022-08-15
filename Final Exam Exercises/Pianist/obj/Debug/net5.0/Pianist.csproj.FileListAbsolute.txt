@@ -1,0 +1,16 @@
+C:\Users\ashev\source\repos\Final Exam Exercises\Pianist\bin\Debug\net5.0\Pianist.exe
+C:\Users\ashev\source\repos\Final Exam Exercises\Pianist\bin\Debug\net5.0\Pianist.deps.json
+C:\Users\ashev\source\repos\Final Exam Exercises\Pianist\bin\Debug\net5.0\Pianist.runtimeconfig.json
+C:\Users\ashev\source\repos\Final Exam Exercises\Pianist\bin\Debug\net5.0\Pianist.runtimeconfig.dev.json
+C:\Users\ashev\source\repos\Final Exam Exercises\Pianist\bin\Debug\net5.0\Pianist.dll
+C:\Users\ashev\source\repos\Final Exam Exercises\Pianist\bin\Debug\net5.0\Pianist.pdb
+C:\Users\ashev\source\repos\Final Exam Exercises\Pianist\obj\Debug\net5.0\Pianist.csproj.AssemblyReference.cache
+C:\Users\ashev\source\repos\Final Exam Exercises\Pianist\obj\Debug\net5.0\Pianist.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ashev\source\repos\Final Exam Exercises\Pianist\obj\Debug\net5.0\Pianist.AssemblyInfoInputs.cache
+C:\Users\ashev\source\repos\Final Exam Exercises\Pianist\obj\Debug\net5.0\Pianist.AssemblyInfo.cs
+C:\Users\ashev\source\repos\Final Exam Exercises\Pianist\obj\Debug\net5.0\Pianist.csproj.CoreCompileInputs.cache
+C:\Users\ashev\source\repos\Final Exam Exercises\Pianist\obj\Debug\net5.0\Pianist.dll
+C:\Users\ashev\source\repos\Final Exam Exercises\Pianist\obj\Debug\net5.0\refint\Pianist.dll
+C:\Users\ashev\source\repos\Final Exam Exercises\Pianist\obj\Debug\net5.0\Pianist.pdb
+C:\Users\ashev\source\repos\Final Exam Exercises\Pianist\obj\Debug\net5.0\Pianist.genruntimeconfig.cache
+C:\Users\ashev\source\repos\Final Exam Exercises\Pianist\obj\Debug\net5.0\ref\Pianist.dll

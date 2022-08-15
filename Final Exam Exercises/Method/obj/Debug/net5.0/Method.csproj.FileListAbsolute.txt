@@ -1,0 +1,16 @@
+C:\Users\ashev\source\repos\Final Exam Exercises\Method\bin\Debug\net5.0\Method.exe
+C:\Users\ashev\source\repos\Final Exam Exercises\Method\bin\Debug\net5.0\Method.deps.json
+C:\Users\ashev\source\repos\Final Exam Exercises\Method\bin\Debug\net5.0\Method.runtimeconfig.json
+C:\Users\ashev\source\repos\Final Exam Exercises\Method\bin\Debug\net5.0\Method.runtimeconfig.dev.json
+C:\Users\ashev\source\repos\Final Exam Exercises\Method\bin\Debug\net5.0\Method.dll
+C:\Users\ashev\source\repos\Final Exam Exercises\Method\bin\Debug\net5.0\Method.pdb
+C:\Users\ashev\source\repos\Final Exam Exercises\Method\obj\Debug\net5.0\Method.csproj.AssemblyReference.cache
+C:\Users\ashev\source\repos\Final Exam Exercises\Method\obj\Debug\net5.0\Method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ashev\source\repos\Final Exam Exercises\Method\obj\Debug\net5.0\Method.AssemblyInfoInputs.cache
+C:\Users\ashev\source\repos\Final Exam Exercises\Method\obj\Debug\net5.0\Method.AssemblyInfo.cs
+C:\Users\ashev\source\repos\Final Exam Exercises\Method\obj\Debug\net5.0\Method.csproj.CoreCompileInputs.cache
+C:\Users\ashev\source\repos\Final Exam Exercises\Method\obj\Debug\net5.0\Method.dll
+C:\Users\ashev\source\repos\Final Exam Exercises\Method\obj\Debug\net5.0\refint\Method.dll
+C:\Users\ashev\source\repos\Final Exam Exercises\Method\obj\Debug\net5.0\Method.pdb
+C:\Users\ashev\source\repos\Final Exam Exercises\Method\obj\Debug\net5.0\Method.genruntimeconfig.cache
+C:\Users\ashev\source\repos\Final Exam Exercises\Method\obj\Debug\net5.0\ref\Method.dll

@@ -1,0 +1,16 @@
+C:\Users\ashev\source\repos\Mid Exam Preparation\Numbers\bin\Debug\net5.0\Numbers.exe
+C:\Users\ashev\source\repos\Mid Exam Preparation\Numbers\bin\Debug\net5.0\Numbers.deps.json
+C:\Users\ashev\source\repos\Mid Exam Preparation\Numbers\bin\Debug\net5.0\Numbers.runtimeconfig.json
+C:\Users\ashev\source\repos\Mid Exam Preparation\Numbers\bin\Debug\net5.0\Numbers.runtimeconfig.dev.json
+C:\Users\ashev\source\repos\Mid Exam Preparation\Numbers\bin\Debug\net5.0\Numbers.dll
+C:\Users\ashev\source\repos\Mid Exam Preparation\Numbers\bin\Debug\net5.0\Numbers.pdb
+C:\Users\ashev\source\repos\Mid Exam Preparation\Numbers\obj\Debug\net5.0\Numbers.csproj.AssemblyReference.cache
+C:\Users\ashev\source\repos\Mid Exam Preparation\Numbers\obj\Debug\net5.0\Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ashev\source\repos\Mid Exam Preparation\Numbers\obj\Debug\net5.0\Numbers.AssemblyInfoInputs.cache
+C:\Users\ashev\source\repos\Mid Exam Preparation\Numbers\obj\Debug\net5.0\Numbers.AssemblyInfo.cs
+C:\Users\ashev\source\repos\Mid Exam Preparation\Numbers\obj\Debug\net5.0\Numbers.csproj.CoreCompileInputs.cache
+C:\Users\ashev\source\repos\Mid Exam Preparation\Numbers\obj\Debug\net5.0\Numbers.dll
+C:\Users\ashev\source\repos\Mid Exam Preparation\Numbers\obj\Debug\net5.0\refint\Numbers.dll
+C:\Users\ashev\source\repos\Mid Exam Preparation\Numbers\obj\Debug\net5.0\Numbers.pdb
+C:\Users\ashev\source\repos\Mid Exam Preparation\Numbers\obj\Debug\net5.0\Numbers.genruntimeconfig.cache
+C:\Users\ashev\source\repos\Mid Exam Preparation\Numbers\obj\Debug\net5.0\ref\Numbers.dll

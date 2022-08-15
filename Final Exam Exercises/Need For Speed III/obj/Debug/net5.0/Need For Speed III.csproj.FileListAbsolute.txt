@@ -1,0 +1,16 @@
+C:\Users\ashev\source\repos\Final Exam Exercises\Need For Speed III\bin\Debug\net5.0\Need For Speed III.exe
+C:\Users\ashev\source\repos\Final Exam Exercises\Need For Speed III\bin\Debug\net5.0\Need For Speed III.deps.json
+C:\Users\ashev\source\repos\Final Exam Exercises\Need For Speed III\bin\Debug\net5.0\Need For Speed III.runtimeconfig.json
+C:\Users\ashev\source\repos\Final Exam Exercises\Need For Speed III\bin\Debug\net5.0\Need For Speed III.runtimeconfig.dev.json
+C:\Users\ashev\source\repos\Final Exam Exercises\Need For Speed III\bin\Debug\net5.0\Need For Speed III.dll
+C:\Users\ashev\source\repos\Final Exam Exercises\Need For Speed III\bin\Debug\net5.0\Need For Speed III.pdb
+C:\Users\ashev\source\repos\Final Exam Exercises\Need For Speed III\obj\Debug\net5.0\Need For Speed III.csproj.AssemblyReference.cache
+C:\Users\ashev\source\repos\Final Exam Exercises\Need For Speed III\obj\Debug\net5.0\Need For Speed III.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ashev\source\repos\Final Exam Exercises\Need For Speed III\obj\Debug\net5.0\Need For Speed III.AssemblyInfoInputs.cache
+C:\Users\ashev\source\repos\Final Exam Exercises\Need For Speed III\obj\Debug\net5.0\Need For Speed III.AssemblyInfo.cs
+C:\Users\ashev\source\repos\Final Exam Exercises\Need For Speed III\obj\Debug\net5.0\Need For Speed III.csproj.CoreCompileInputs.cache
+C:\Users\ashev\source\repos\Final Exam Exercises\Need For Speed III\obj\Debug\net5.0\Need For Speed III.dll
+C:\Users\ashev\source\repos\Final Exam Exercises\Need For Speed III\obj\Debug\net5.0\refint\Need For Speed III.dll
+C:\Users\ashev\source\repos\Final Exam Exercises\Need For Speed III\obj\Debug\net5.0\Need For Speed III.pdb
+C:\Users\ashev\source\repos\Final Exam Exercises\Need For Speed III\obj\Debug\net5.0\Need For Speed III.genruntimeconfig.cache
+C:\Users\ashev\source\repos\Final Exam Exercises\Need For Speed III\obj\Debug\net5.0\ref\Need For Speed III.dll

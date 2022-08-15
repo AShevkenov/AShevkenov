@@ -1,0 +1,16 @@
+C:\Users\ashev\source\repos\Mid Exam Preparation\Mid Exam Preparation\bin\Debug\net5.0\Mid Exam Preparation.exe
+C:\Users\ashev\source\repos\Mid Exam Preparation\Mid Exam Preparation\bin\Debug\net5.0\Mid Exam Preparation.deps.json
+C:\Users\ashev\source\repos\Mid Exam Preparation\Mid Exam Preparation\bin\Debug\net5.0\Mid Exam Preparation.runtimeconfig.json
+C:\Users\ashev\source\repos\Mid Exam Preparation\Mid Exam Preparation\bin\Debug\net5.0\Mid Exam Preparation.runtimeconfig.dev.json
+C:\Users\ashev\source\repos\Mid Exam Preparation\Mid Exam Preparation\bin\Debug\net5.0\Mid Exam Preparation.dll
+C:\Users\ashev\source\repos\Mid Exam Preparation\Mid Exam Preparation\bin\Debug\net5.0\Mid Exam Preparation.pdb
+C:\Users\ashev\source\repos\Mid Exam Preparation\Mid Exam Preparation\obj\Debug\net5.0\Mid Exam Preparation.csproj.AssemblyReference.cache
+C:\Users\ashev\source\repos\Mid Exam Preparation\Mid Exam Preparation\obj\Debug\net5.0\Mid Exam Preparation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ashev\source\repos\Mid Exam Preparation\Mid Exam Preparation\obj\Debug\net5.0\Mid Exam Preparation.AssemblyInfoInputs.cache
+C:\Users\ashev\source\repos\Mid Exam Preparation\Mid Exam Preparation\obj\Debug\net5.0\Mid Exam Preparation.AssemblyInfo.cs
+C:\Users\ashev\source\repos\Mid Exam Preparation\Mid Exam Preparation\obj\Debug\net5.0\Mid Exam Preparation.csproj.CoreCompileInputs.cache
+C:\Users\ashev\source\repos\Mid Exam Preparation\Mid Exam Preparation\obj\Debug\net5.0\Mid Exam Preparation.dll
+C:\Users\ashev\source\repos\Mid Exam Preparation\Mid Exam Preparation\obj\Debug\net5.0\refint\Mid Exam Preparation.dll
+C:\Users\ashev\source\repos\Mid Exam Preparation\Mid Exam Preparation\obj\Debug\net5.0\Mid Exam Preparation.pdb
+C:\Users\ashev\source\repos\Mid Exam Preparation\Mid Exam Preparation\obj\Debug\net5.0\Mid Exam Preparation.genruntimeconfig.cache
+C:\Users\ashev\source\repos\Mid Exam Preparation\Mid Exam Preparation\obj\Debug\net5.0\ref\Mid Exam Preparation.dll

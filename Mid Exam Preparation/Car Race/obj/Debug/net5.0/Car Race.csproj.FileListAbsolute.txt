@@ -1,0 +1,16 @@
+C:\Users\ashev\source\repos\Mid Exam Preparation\Car Race\bin\Debug\net5.0\Car Race.exe
+C:\Users\ashev\source\repos\Mid Exam Preparation\Car Race\bin\Debug\net5.0\Car Race.deps.json
+C:\Users\ashev\source\repos\Mid Exam Preparation\Car Race\bin\Debug\net5.0\Car Race.runtimeconfig.json
+C:\Users\ashev\source\repos\Mid Exam Preparation\Car Race\bin\Debug\net5.0\Car Race.runtimeconfig.dev.json
+C:\Users\ashev\source\repos\Mid Exam Preparation\Car Race\bin\Debug\net5.0\Car Race.dll
+C:\Users\ashev\source\repos\Mid Exam Preparation\Car Race\bin\Debug\net5.0\Car Race.pdb
+C:\Users\ashev\source\repos\Mid Exam Preparation\Car Race\obj\Debug\net5.0\Car Race.csproj.AssemblyReference.cache
+C:\Users\ashev\source\repos\Mid Exam Preparation\Car Race\obj\Debug\net5.0\Car Race.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ashev\source\repos\Mid Exam Preparation\Car Race\obj\Debug\net5.0\Car Race.AssemblyInfoInputs.cache
+C:\Users\ashev\source\repos\Mid Exam Preparation\Car Race\obj\Debug\net5.0\Car Race.AssemblyInfo.cs
+C:\Users\ashev\source\repos\Mid Exam Preparation\Car Race\obj\Debug\net5.0\Car Race.csproj.CoreCompileInputs.cache
+C:\Users\ashev\source\repos\Mid Exam Preparation\Car Race\obj\Debug\net5.0\Car Race.dll
+C:\Users\ashev\source\repos\Mid Exam Preparation\Car Race\obj\Debug\net5.0\refint\Car Race.dll
+C:\Users\ashev\source\repos\Mid Exam Preparation\Car Race\obj\Debug\net5.0\Car Race.pdb
+C:\Users\ashev\source\repos\Mid Exam Preparation\Car Race\obj\Debug\net5.0\Car Race.genruntimeconfig.cache
+C:\Users\ashev\source\repos\Mid Exam Preparation\Car Race\obj\Debug\net5.0\ref\Car Race.dll

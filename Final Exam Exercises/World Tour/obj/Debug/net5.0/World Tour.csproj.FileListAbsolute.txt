@@ -1,0 +1,16 @@
+C:\Users\ashev\source\repos\Final Exam Exercises\World Tour\bin\Debug\net5.0\World Tour.exe
+C:\Users\ashev\source\repos\Final Exam Exercises\World Tour\bin\Debug\net5.0\World Tour.deps.json
+C:\Users\ashev\source\repos\Final Exam Exercises\World Tour\bin\Debug\net5.0\World Tour.runtimeconfig.json
+C:\Users\ashev\source\repos\Final Exam Exercises\World Tour\bin\Debug\net5.0\World Tour.runtimeconfig.dev.json
+C:\Users\ashev\source\repos\Final Exam Exercises\World Tour\bin\Debug\net5.0\World Tour.dll
+C:\Users\ashev\source\repos\Final Exam Exercises\World Tour\bin\Debug\net5.0\World Tour.pdb
+C:\Users\ashev\source\repos\Final Exam Exercises\World Tour\obj\Debug\net5.0\World Tour.csproj.AssemblyReference.cache
+C:\Users\ashev\source\repos\Final Exam Exercises\World Tour\obj\Debug\net5.0\World Tour.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ashev\source\repos\Final Exam Exercises\World Tour\obj\Debug\net5.0\World Tour.AssemblyInfoInputs.cache
+C:\Users\ashev\source\repos\Final Exam Exercises\World Tour\obj\Debug\net5.0\World Tour.AssemblyInfo.cs
+C:\Users\ashev\source\repos\Final Exam Exercises\World Tour\obj\Debug\net5.0\World Tour.csproj.CoreCompileInputs.cache
+C:\Users\ashev\source\repos\Final Exam Exercises\World Tour\obj\Debug\net5.0\World Tour.dll
+C:\Users\ashev\source\repos\Final Exam Exercises\World Tour\obj\Debug\net5.0\refint\World Tour.dll
+C:\Users\ashev\source\repos\Final Exam Exercises\World Tour\obj\Debug\net5.0\World Tour.pdb
+C:\Users\ashev\source\repos\Final Exam Exercises\World Tour\obj\Debug\net5.0\World Tour.genruntimeconfig.cache
+C:\Users\ashev\source\repos\Final Exam Exercises\World Tour\obj\Debug\net5.0\ref\World Tour.dll
