@@ -1,0 +1,16 @@
+C:\Users\ashev\source\repos\Data Types and Variables - More Exercise\02.From Left To The Right\bin\Debug\net5.0\02.From Left To The Right.exe
+C:\Users\ashev\source\repos\Data Types and Variables - More Exercise\02.From Left To The Right\bin\Debug\net5.0\02.From Left To The Right.deps.json
+C:\Users\ashev\source\repos\Data Types and Variables - More Exercise\02.From Left To The Right\bin\Debug\net5.0\02.From Left To The Right.runtimeconfig.json
+C:\Users\ashev\source\repos\Data Types and Variables - More Exercise\02.From Left To The Right\bin\Debug\net5.0\02.From Left To The Right.runtimeconfig.dev.json
+C:\Users\ashev\source\repos\Data Types and Variables - More Exercise\02.From Left To The Right\bin\Debug\net5.0\02.From Left To The Right.dll
+C:\Users\ashev\source\repos\Data Types and Variables - More Exercise\02.From Left To The Right\bin\Debug\net5.0\02.From Left To The Right.pdb
+C:\Users\ashev\source\repos\Data Types and Variables - More Exercise\02.From Left To The Right\obj\Debug\net5.0\02.From Left To The Right.csproj.AssemblyReference.cache
+C:\Users\ashev\source\repos\Data Types and Variables - More Exercise\02.From Left To The Right\obj\Debug\net5.0\02.From Left To The Right.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ashev\source\repos\Data Types and Variables - More Exercise\02.From Left To The Right\obj\Debug\net5.0\02.From Left To The Right.AssemblyInfoInputs.cache
+C:\Users\ashev\source\repos\Data Types and Variables - More Exercise\02.From Left To The Right\obj\Debug\net5.0\02.From Left To The Right.AssemblyInfo.cs
+C:\Users\ashev\source\repos\Data Types and Variables - More Exercise\02.From Left To The Right\obj\Debug\net5.0\02.From Left To The Right.csproj.CoreCompileInputs.cache
+C:\Users\ashev\source\repos\Data Types and Variables - More Exercise\02.From Left To The Right\obj\Debug\net5.0\02.From Left To The Right.dll
+C:\Users\ashev\source\repos\Data Types and Variables - More Exercise\02.From Left To The Right\obj\Debug\net5.0\refint\02.From Left To The Right.dll
+C:\Users\ashev\source\repos\Data Types and Variables - More Exercise\02.From Left To The Right\obj\Debug\net5.0\02.From Left To The Right.pdb
+C:\Users\ashev\source\repos\Data Types and Variables - More Exercise\02.From Left To The Right\obj\Debug\net5.0\02.From Left To The Right.genruntimeconfig.cache
+C:\Users\ashev\source\repos\Data Types and Variables - More Exercise\02.From Left To The Right\obj\Debug\net5.0\ref\02.From Left To The Right.dll

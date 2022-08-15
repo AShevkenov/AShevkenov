@@ -1,0 +1,16 @@
+C:\Users\ashev\source\repos\Data Types and Variables\Data Types and Variables\bin\Debug\net5.0\Data Types and Variables.exe
+C:\Users\ashev\source\repos\Data Types and Variables\Data Types and Variables\bin\Debug\net5.0\Data Types and Variables.deps.json
+C:\Users\ashev\source\repos\Data Types and Variables\Data Types and Variables\bin\Debug\net5.0\Data Types and Variables.runtimeconfig.json
+C:\Users\ashev\source\repos\Data Types and Variables\Data Types and Variables\bin\Debug\net5.0\Data Types and Variables.runtimeconfig.dev.json
+C:\Users\ashev\source\repos\Data Types and Variables\Data Types and Variables\bin\Debug\net5.0\Data Types and Variables.dll
+C:\Users\ashev\source\repos\Data Types and Variables\Data Types and Variables\bin\Debug\net5.0\Data Types and Variables.pdb
+C:\Users\ashev\source\repos\Data Types and Variables\Data Types and Variables\obj\Debug\net5.0\Data Types and Variables.csproj.AssemblyReference.cache
+C:\Users\ashev\source\repos\Data Types and Variables\Data Types and Variables\obj\Debug\net5.0\Data Types and Variables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ashev\source\repos\Data Types and Variables\Data Types and Variables\obj\Debug\net5.0\Data Types and Variables.AssemblyInfoInputs.cache
+C:\Users\ashev\source\repos\Data Types and Variables\Data Types and Variables\obj\Debug\net5.0\Data Types and Variables.AssemblyInfo.cs
+C:\Users\ashev\source\repos\Data Types and Variables\Data Types and Variables\obj\Debug\net5.0\Data Types and Variables.csproj.CoreCompileInputs.cache
+C:\Users\ashev\source\repos\Data Types and Variables\Data Types and Variables\obj\Debug\net5.0\Data Types and Variables.dll
+C:\Users\ashev\source\repos\Data Types and Variables\Data Types and Variables\obj\Debug\net5.0\refint\Data Types and Variables.dll
+C:\Users\ashev\source\repos\Data Types and Variables\Data Types and Variables\obj\Debug\net5.0\Data Types and Variables.pdb
+C:\Users\ashev\source\repos\Data Types and Variables\Data Types and Variables\obj\Debug\net5.0\Data Types and Variables.genruntimeconfig.cache
+C:\Users\ashev\source\repos\Data Types and Variables\Data Types and Variables\obj\Debug\net5.0\ref\Data Types and Variables.dll

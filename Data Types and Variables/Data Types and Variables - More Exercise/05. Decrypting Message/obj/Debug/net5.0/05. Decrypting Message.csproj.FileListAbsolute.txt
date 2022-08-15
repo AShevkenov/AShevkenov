@@ -1,0 +1,16 @@
+C:\Users\ashev\source\repos\Data Types and Variables - More Exercise\05. Decrypting Message\bin\Debug\net5.0\05. Decrypting Message.exe
+C:\Users\ashev\source\repos\Data Types and Variables - More Exercise\05. Decrypting Message\bin\Debug\net5.0\05. Decrypting Message.deps.json
+C:\Users\ashev\source\repos\Data Types and Variables - More Exercise\05. Decrypting Message\bin\Debug\net5.0\05. Decrypting Message.runtimeconfig.json
+C:\Users\ashev\source\repos\Data Types and Variables - More Exercise\05. Decrypting Message\bin\Debug\net5.0\05. Decrypting Message.runtimeconfig.dev.json
+C:\Users\ashev\source\repos\Data Types and Variables - More Exercise\05. Decrypting Message\bin\Debug\net5.0\05. Decrypting Message.dll
+C:\Users\ashev\source\repos\Data Types and Variables - More Exercise\05. Decrypting Message\bin\Debug\net5.0\05. Decrypting Message.pdb
+C:\Users\ashev\source\repos\Data Types and Variables - More Exercise\05. Decrypting Message\obj\Debug\net5.0\05. Decrypting Message.csproj.AssemblyReference.cache
+C:\Users\ashev\source\repos\Data Types and Variables - More Exercise\05. Decrypting Message\obj\Debug\net5.0\05. Decrypting Message.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ashev\source\repos\Data Types and Variables - More Exercise\05. Decrypting Message\obj\Debug\net5.0\05. Decrypting Message.AssemblyInfoInputs.cache
+C:\Users\ashev\source\repos\Data Types and Variables - More Exercise\05. Decrypting Message\obj\Debug\net5.0\05. Decrypting Message.AssemblyInfo.cs
+C:\Users\ashev\source\repos\Data Types and Variables - More Exercise\05. Decrypting Message\obj\Debug\net5.0\05. Decrypting Message.csproj.CoreCompileInputs.cache
+C:\Users\ashev\source\repos\Data Types and Variables - More Exercise\05. Decrypting Message\obj\Debug\net5.0\05. Decrypting Message.dll
+C:\Users\ashev\source\repos\Data Types and Variables - More Exercise\05. Decrypting Message\obj\Debug\net5.0\refint\05. Decrypting Message.dll
+C:\Users\ashev\source\repos\Data Types and Variables - More Exercise\05. Decrypting Message\obj\Debug\net5.0\05. Decrypting Message.pdb
+C:\Users\ashev\source\repos\Data Types and Variables - More Exercise\05. Decrypting Message\obj\Debug\net5.0\05. Decrypting Message.genruntimeconfig.cache
+C:\Users\ashev\source\repos\Data Types and Variables - More Exercise\05. Decrypting Message\obj\Debug\net5.0\ref\05. Decrypting Message.dll

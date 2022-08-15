@@ -1,0 +1,16 @@
+C:\Users\ashev\source\repos\Data Types and Variables - More Exercise\04. Refactoring Prime Checker\bin\Debug\net5.0\04. Refactoring Prime Checker.exe
+C:\Users\ashev\source\repos\Data Types and Variables - More Exercise\04. Refactoring Prime Checker\bin\Debug\net5.0\04. Refactoring Prime Checker.deps.json
+C:\Users\ashev\source\repos\Data Types and Variables - More Exercise\04. Refactoring Prime Checker\bin\Debug\net5.0\04. Refactoring Prime Checker.runtimeconfig.json
+C:\Users\ashev\source\repos\Data Types and Variables - More Exercise\04. Refactoring Prime Checker\bin\Debug\net5.0\04. Refactoring Prime Checker.runtimeconfig.dev.json
+C:\Users\ashev\source\repos\Data Types and Variables - More Exercise\04. Refactoring Prime Checker\bin\Debug\net5.0\04. Refactoring Prime Checker.dll
+C:\Users\ashev\source\repos\Data Types and Variables - More Exercise\04. Refactoring Prime Checker\bin\Debug\net5.0\04. Refactoring Prime Checker.pdb
+C:\Users\ashev\source\repos\Data Types and Variables - More Exercise\04. Refactoring Prime Checker\obj\Debug\net5.0\04. Refactoring Prime Checker.csproj.AssemblyReference.cache
+C:\Users\ashev\source\repos\Data Types and Variables - More Exercise\04. Refactoring Prime Checker\obj\Debug\net5.0\04. Refactoring Prime Checker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ashev\source\repos\Data Types and Variables - More Exercise\04. Refactoring Prime Checker\obj\Debug\net5.0\04. Refactoring Prime Checker.AssemblyInfoInputs.cache
+C:\Users\ashev\source\repos\Data Types and Variables - More Exercise\04. Refactoring Prime Checker\obj\Debug\net5.0\04. Refactoring Prime Checker.AssemblyInfo.cs
+C:\Users\ashev\source\repos\Data Types and Variables - More Exercise\04. Refactoring Prime Checker\obj\Debug\net5.0\04. Refactoring Prime Checker.csproj.CoreCompileInputs.cache
+C:\Users\ashev\source\repos\Data Types and Variables - More Exercise\04. Refactoring Prime Checker\obj\Debug\net5.0\04. Refactoring Prime Checker.dll
+C:\Users\ashev\source\repos\Data Types and Variables - More Exercise\04. Refactoring Prime Checker\obj\Debug\net5.0\refint\04. Refactoring Prime Checker.dll
+C:\Users\ashev\source\repos\Data Types and Variables - More Exercise\04. Refactoring Prime Checker\obj\Debug\net5.0\04. Refactoring Prime Checker.pdb
+C:\Users\ashev\source\repos\Data Types and Variables - More Exercise\04. Refactoring Prime Checker\obj\Debug\net5.0\04. Refactoring Prime Checker.genruntimeconfig.cache
+C:\Users\ashev\source\repos\Data Types and Variables - More Exercise\04. Refactoring Prime Checker\obj\Debug\net5.0\ref\04. Refactoring Prime Checker.dll

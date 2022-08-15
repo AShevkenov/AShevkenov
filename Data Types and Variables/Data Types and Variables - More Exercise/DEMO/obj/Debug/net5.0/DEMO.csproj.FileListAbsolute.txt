@@ -1,0 +1,16 @@
+C:\Users\ashev\source\repos\Data Types and Variables - More Exercise\DEMO\bin\Debug\net5.0\DEMO.exe
+C:\Users\ashev\source\repos\Data Types and Variables - More Exercise\DEMO\bin\Debug\net5.0\DEMO.deps.json
+C:\Users\ashev\source\repos\Data Types and Variables - More Exercise\DEMO\bin\Debug\net5.0\DEMO.runtimeconfig.json
+C:\Users\ashev\source\repos\Data Types and Variables - More Exercise\DEMO\bin\Debug\net5.0\DEMO.runtimeconfig.dev.json
+C:\Users\ashev\source\repos\Data Types and Variables - More Exercise\DEMO\bin\Debug\net5.0\DEMO.dll
+C:\Users\ashev\source\repos\Data Types and Variables - More Exercise\DEMO\bin\Debug\net5.0\DEMO.pdb
+C:\Users\ashev\source\repos\Data Types and Variables - More Exercise\DEMO\obj\Debug\net5.0\DEMO.csproj.AssemblyReference.cache
+C:\Users\ashev\source\repos\Data Types and Variables - More Exercise\DEMO\obj\Debug\net5.0\DEMO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ashev\source\repos\Data Types and Variables - More Exercise\DEMO\obj\Debug\net5.0\DEMO.AssemblyInfoInputs.cache
+C:\Users\ashev\source\repos\Data Types and Variables - More Exercise\DEMO\obj\Debug\net5.0\DEMO.AssemblyInfo.cs
+C:\Users\ashev\source\repos\Data Types and Variables - More Exercise\DEMO\obj\Debug\net5.0\DEMO.csproj.CoreCompileInputs.cache
+C:\Users\ashev\source\repos\Data Types and Variables - More Exercise\DEMO\obj\Debug\net5.0\DEMO.dll
+C:\Users\ashev\source\repos\Data Types and Variables - More Exercise\DEMO\obj\Debug\net5.0\refint\DEMO.dll
+C:\Users\ashev\source\repos\Data Types and Variables - More Exercise\DEMO\obj\Debug\net5.0\DEMO.pdb
+C:\Users\ashev\source\repos\Data Types and Variables - More Exercise\DEMO\obj\Debug\net5.0\DEMO.genruntimeconfig.cache
+C:\Users\ashev\source\repos\Data Types and Variables - More Exercise\DEMO\obj\Debug\net5.0\ref\DEMO.dll

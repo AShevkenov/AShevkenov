@@ -1,0 +1,16 @@
+C:\Users\ashev\source\repos\Data Types and Variables - More Exercise\03. Floating Equality\bin\Debug\net5.0\03. Floating Equality.exe
+C:\Users\ashev\source\repos\Data Types and Variables - More Exercise\03. Floating Equality\bin\Debug\net5.0\03. Floating Equality.deps.json
+C:\Users\ashev\source\repos\Data Types and Variables - More Exercise\03. Floating Equality\bin\Debug\net5.0\03. Floating Equality.runtimeconfig.json
+C:\Users\ashev\source\repos\Data Types and Variables - More Exercise\03. Floating Equality\bin\Debug\net5.0\03. Floating Equality.runtimeconfig.dev.json
+C:\Users\ashev\source\repos\Data Types and Variables - More Exercise\03. Floating Equality\bin\Debug\net5.0\03. Floating Equality.dll
+C:\Users\ashev\source\repos\Data Types and Variables - More Exercise\03. Floating Equality\bin\Debug\net5.0\03. Floating Equality.pdb
+C:\Users\ashev\source\repos\Data Types and Variables - More Exercise\03. Floating Equality\obj\Debug\net5.0\03. Floating Equality.csproj.AssemblyReference.cache
+C:\Users\ashev\source\repos\Data Types and Variables - More Exercise\03. Floating Equality\obj\Debug\net5.0\03. Floating Equality.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ashev\source\repos\Data Types and Variables - More Exercise\03. Floating Equality\obj\Debug\net5.0\03. Floating Equality.AssemblyInfoInputs.cache
+C:\Users\ashev\source\repos\Data Types and Variables - More Exercise\03. Floating Equality\obj\Debug\net5.0\03. Floating Equality.AssemblyInfo.cs
+C:\Users\ashev\source\repos\Data Types and Variables - More Exercise\03. Floating Equality\obj\Debug\net5.0\03. Floating Equality.csproj.CoreCompileInputs.cache
+C:\Users\ashev\source\repos\Data Types and Variables - More Exercise\03. Floating Equality\obj\Debug\net5.0\03. Floating Equality.dll
+C:\Users\ashev\source\repos\Data Types and Variables - More Exercise\03. Floating Equality\obj\Debug\net5.0\refint\03. Floating Equality.dll
+C:\Users\ashev\source\repos\Data Types and Variables - More Exercise\03. Floating Equality\obj\Debug\net5.0\03. Floating Equality.pdb
+C:\Users\ashev\source\repos\Data Types and Variables - More Exercise\03. Floating Equality\obj\Debug\net5.0\03. Floating Equality.genruntimeconfig.cache
+C:\Users\ashev\source\repos\Data Types and Variables - More Exercise\03. Floating Equality\obj\Debug\net5.0\ref\03. Floating Equality.dll

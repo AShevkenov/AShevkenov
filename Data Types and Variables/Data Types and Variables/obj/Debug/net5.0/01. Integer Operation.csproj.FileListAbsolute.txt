@@ -1,0 +1,16 @@
+C:\Users\ashev\source\repos\Data Types and Variables\Data Types and Variables\bin\Debug\net5.0\01. Integer Operation.exe
+C:\Users\ashev\source\repos\Data Types and Variables\Data Types and Variables\bin\Debug\net5.0\01. Integer Operation.deps.json
+C:\Users\ashev\source\repos\Data Types and Variables\Data Types and Variables\bin\Debug\net5.0\01. Integer Operation.runtimeconfig.json
+C:\Users\ashev\source\repos\Data Types and Variables\Data Types and Variables\bin\Debug\net5.0\01. Integer Operation.runtimeconfig.dev.json
+C:\Users\ashev\source\repos\Data Types and Variables\Data Types and Variables\bin\Debug\net5.0\01. Integer Operation.dll
+C:\Users\ashev\source\repos\Data Types and Variables\Data Types and Variables\bin\Debug\net5.0\01. Integer Operation.pdb
+C:\Users\ashev\source\repos\Data Types and Variables\Data Types and Variables\obj\Debug\net5.0\01. Integer Operation.csproj.AssemblyReference.cache
+C:\Users\ashev\source\repos\Data Types and Variables\Data Types and Variables\obj\Debug\net5.0\01. Integer Operation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ashev\source\repos\Data Types and Variables\Data Types and Variables\obj\Debug\net5.0\01. Integer Operation.AssemblyInfoInputs.cache
+C:\Users\ashev\source\repos\Data Types and Variables\Data Types and Variables\obj\Debug\net5.0\01. Integer Operation.AssemblyInfo.cs
+C:\Users\ashev\source\repos\Data Types and Variables\Data Types and Variables\obj\Debug\net5.0\01. Integer Operation.csproj.CoreCompileInputs.cache
+C:\Users\ashev\source\repos\Data Types and Variables\Data Types and Variables\obj\Debug\net5.0\01. Integer Operation.dll
+C:\Users\ashev\source\repos\Data Types and Variables\Data Types and Variables\obj\Debug\net5.0\refint\01. Integer Operation.dll
+C:\Users\ashev\source\repos\Data Types and Variables\Data Types and Variables\obj\Debug\net5.0\01. Integer Operation.pdb
+C:\Users\ashev\source\repos\Data Types and Variables\Data Types and Variables\obj\Debug\net5.0\01. Integer Operation.genruntimeconfig.cache
+C:\Users\ashev\source\repos\Data Types and Variables\Data Types and Variables\obj\Debug\net5.0\ref\01. Integer Operation.dll
